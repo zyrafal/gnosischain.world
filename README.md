@@ -16,6 +16,8 @@ Here are the guidelines for submitting new projects.
 
 - Add your project info to src/resource.json
 
+- Find the correct tag in src/tagList.json
+
 
 Examples of project information:
 
