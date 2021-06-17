@@ -1,0 +1,50 @@
+[
+  {
+    "tag": "合作伙伴",
+    "tag_en": "PartnerShip"
+  },
+  {
+    "tag": "基础设施",
+    "tag_en": "Infrastructure"
+  },
+  {
+    "tag": "DeFi",
+    "tag_en": "DeFi"
+  },
+  {
+    "tag": "NFT",
+    "tag_en": "NFT"
+  },
+  {
+    "tag": "社区",
+    "tag_en": "Community Engagemen"
+  },
+  {
+    "tag": "预测市场",
+    "tag_en": "Prediction Markets"
+  },
+  {
+    "tag": "治理",
+    "tag_en": "Governance"
+  },
+  {
+    "tag": "DAO组织",
+    "tag_en": "DAOs"
+  },
+  {
+    "tag": "UBI",
+    "tag_en": "UBI, Payments, Streaming"
+  },
+  {
+    "tag": "分析",
+    "tag_en": "Analytics"
+  },
+  {
+    "tag": "游戏",
+    "tag_en": "Games"
+  },
+  {
+    "tag": "更多",
+    "tag_en": "More"
+  }
+]

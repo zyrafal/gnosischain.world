@@ -1,0 +1,46 @@
+.NavBa_fixed {
+  position: fixed;
+  top: 0;
+}
+
+.link {
+  position: relative;
+  padding: 8px 16px;
+}
+
+.link:hover {
+  font-weight: 500;
+  color: #49A9A7;
+  /* background-color: rgba(255, 120, 40, .1); */
+  background-color: #D5E6E5;
+}
+
+.NavBar .link_active {
+  font-weight: 500;
+  color: #49A9A7;
+}
+
+.link_active::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin-top: -6px;
+  height: 12px;
+  width: 4px;
+  background-color: #49A9A7;
+}
+
+.drawer_link:hover {
+  font-weight: 500;
+  color: #49A9A7;
+}
+
+.drawer_link_active {
+  display: block;
+  font-weight: 500;
+  color: #49A9A7!important;
+  border-right: 2px solid #49A9A7;
+  /* background-color: rgba(255, 120, 40, .1); */
+  background-color: #D5E6E5;
+}
