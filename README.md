@@ -30,6 +30,5 @@ Examples of project information:
     "tag_en": "More",
     "logo": "/images/UnlockProtocol.png",
     "image": "",
-    "tag_es": "More"
 }
 ```
