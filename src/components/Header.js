@@ -13,12 +13,9 @@ import MenuIcon from '@material-ui/icons/Menu';
 import NavBar from './NavBar';
 
 import ETHLOGO from './Icons/123ETH';
-import BTCLOGO from './Icons/123BTC';
-import selectDomainIcon from '../assets/domain_select.svg';
 
 import Box from './Box';
 
-const BTC123URL = 'https://123btc.org/';
 
 const Header = ({
   language,
