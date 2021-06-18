@@ -52,6 +52,17 @@
     "des_es": "Nuestra tarea es facilitar la contraseña. Ramp proporciona un conjunto de SDK/API que permite a los usuarios comprar contraseñas directamente desde sus aplicaciones."
   },
   {
+    "name": "切换到xDai",
+    "name_en": "Swith to xDai",
+    "desc": "点我，一键切换到 xDai",
+    "desc_en": "Click me to switch to xDai with one click",
+    "url": "",
+    "tag": "工具",
+    "tag_en": "Tools",
+    "logo": "/images/SwitchToXdai.png",
+    "image": ""
+  },
+  {
     "name": "OmniBridge",
     "name_en": "OmniBridge",
     "desc": "ERC20 代币的跨链桥，目前已支持以太坊主网和 BSC 链与 xDai 网络的互跨",

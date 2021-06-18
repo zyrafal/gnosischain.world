@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
 
-import NavItem from './NavItem';
+import NavItem, { SwitchNetworkItem } from './NavItem';
 import NavExpandItem from './NavExpandItem';
 import ItemSkeleton from './ItemSkeleton';
 
@@ -15,11 +15,18 @@ class NavItemList extends PureComponent {
     let node = [];
     let len = list.length <= 8 ? 8 : 7;
     node = list.slice(0, len).map((item, index) => (
-      <NavItem
-        key={index}
-        item={item}
-        language={language}
-      />
+      <>
+        {item.tag_en === "Tools" && item.name_en == "Swith to xDai" ? <SwitchNetworkItem
+          key={index} 
+          item={item}
+          language={language}
+        /> : <NavItem
+          key={index}
+          item={item}
+          language={language}
+        />
+        }
+      </>
     ));
     if (list.length > 8) {
       node.push(
