@@ -57,8 +57,8 @@
     "desc": "点我，一键切换到 xDai",
     "desc_en": "Click me to switch to xDai with one click",
     "url": "",
-    "tag": "工具",
-    "tag_en": "Tools",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
     "logo": "/images/SwitchToXdai.png",
     "image": ""
   },
@@ -68,8 +68,8 @@
     "desc": "ERC20 代币的跨链桥，目前已支持以太坊主网和 BSC 链与 xDai 网络的互跨",
     "desc_en": "ERC20 Token Bridge, Ethereum → xDai, BSC→ xDai.",
     "url": "https://xdai-omnibridge.web.app/",
-    "tag": "工具",
-    "tag_en": "Tools",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
     "logo": "/images/OmniBridge.png",
     "image": ""
   },
@@ -79,9 +79,42 @@
     "desc": "将以太坊主网的 DAI 跨链到 xDai 网络，XDAI 是 xDai 网络的原生代币 (gas)，就像以太坊的 ETH 一样",
     "desc_en": "DAI → XDAI bridge, XDAI is the native token of xDai network, just like ETH of Ethereum network.",
     "url": "https://dai-bridge.poa.network/",
-    "tag": "工具",
-    "tag_en": "Tools",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
     "logo": "/images/xDaiBridge.png",
+    "image": ""
+  },
+  {
+    "name": "Staking on xDai",
+    "name_en": "Staking on xDai",
+    "desc": "在xDai上质押你的STAKE!",
+    "desc_en": "Stake your STAKE on xDai!",
+    "url": "https://blockscout.com/xdai/mainnet/validators",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/xDai.png",
+    "image": ""
+  },
+  {
+    "name": "Staking on Ethereum",
+    "name_en": "Staking on Ethereum",
+    "desc": "在以太坊上质押你的STAKE!",
+    "desc_en": "Stake your STAKE on Ethereum!",
+    "url": "https://easy-staking.xdaichain.com/",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/EasyStaking.png",
+    "image": ""
+  },
+  {
+    "name": "开发资源",
+    "name_en": "Developer Resources",
+    "desc": "一般信息和链接",
+    "desc_en": "General Information and Links",
+    "url": "https://www.xdaichain.com/for-developers/developer-resources",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/xDai.png",
     "image": ""
   },
   {
