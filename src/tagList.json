@@ -52,6 +52,10 @@
     "tag_en": "Wallets"
   },
   {
+    "tag": "存储",
+    "tag_en": "Storage"
+  },
+  {
     "tag": "更多",
     "tag_en": "More"
   }

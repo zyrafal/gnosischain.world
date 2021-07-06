@@ -547,6 +547,17 @@
     "des_es": "El token de utilidad de flujo del usuario de Minerva Wallet"
   },
   {
+    "name": "Curve",
+    "name_en": "Curve",
+    "desc": "使用先进的绑定曲线创建深度链上流动性",
+    "desc_en": "Creating deep on-chain liquidity using advanced bonding curves",
+    "url": "https://xdai.curve.fi/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/CurveFinance.jpeg",
+    "image": ""
+  },
+  {
     "name": "Cargo",
     "name_en": "Cargo",
     "desc": "",
@@ -1543,6 +1554,17 @@
     "tag": "钱包",
     "tag_en": "Wallets",
     "logo": "/images/Trezor.png",
+    "image": ""
+  },
+  {
+    "name": "Swarm",
+    "name_en": "Swarm",
+    "desc": "Swarm 是一个去中心化的存储和通信系统",
+    "desc_en": "Swarm is a decentralised storage and communication system.",
+    "url": "https://www.ethswarm.org/",
+    "tag": "存储",
+    "tag_en": "Storage",
+    "logo": "/images/ethswarm.jpeg",
     "image": ""
   },
   {
