@@ -1735,5 +1735,16 @@
     "image": "",
     "tag_es": "More",
     "des_es": "Encuesta de incentivos"
+  },
+  {
+    "name": "Wallet 3",
+    "name_en": "Wallet 3",
+    "desc": "去银行化时代的安全钱包",
+    "desc_en": "A Secure Wallet for Bankless Era",
+    "url": "https://wallet3.io",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/Wallet3.png",
+    "image": ""
   }
 ]
