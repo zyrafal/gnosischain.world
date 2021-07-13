@@ -1746,5 +1746,16 @@
     "tag_en": "Wallets",
     "logo": "/images/Wallet3.png",
     "image": ""
+  },
+  {
+    "name": "Defungify",
+    "name_en": "Defungify",
+    "desc": "Web3 红包",
+    "desc_en": "Non-fungible packets for ERC-20 tokens",
+    "url": "https://the-emerald.github.io/defungify/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/Defungify.png",
+    "image": ""
   }
 ]
