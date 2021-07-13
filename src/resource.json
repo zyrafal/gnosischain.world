@@ -779,6 +779,17 @@
     "des_es": "Reality Cards es una mezcla única de mercados predictivos y NFT."
   },
   {
+    "name": "Crypto Stamp",
+    "name_en": "Crypto Stamp",
+    "desc": "加密鲸鱼作为收藏邮票",
+    "desc_en": "The crypto whale as collectible postage stamp",
+    "url": "https://crypto.post.at/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/CryptoStamp.png",
+    "image": ""
+  },
+  {
     "name": "POAP",
     "name_en": "POAP",
     "desc": "出席证明协议（NFTs）",
