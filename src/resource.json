@@ -790,6 +790,17 @@
     "image": ""
   },
   {
+    "name": "Defungify",
+    "name_en": "Defungify",
+    "desc": "ERC-20的NFT包裹",
+    "desc_en": "Non-fungible packets for ERC-20 tokens",
+    "url": "https://the-emerald.github.io/defungify/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/Defungify.png",
+    "image": ""
+  },
+  {
     "name": "POAP",
     "name_en": "POAP",
     "desc": "出席证明协议（NFTs）",
