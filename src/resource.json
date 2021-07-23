@@ -85,6 +85,28 @@
     "image": ""
   },
   {
+    "name": "Hop Protocol",
+    "name_en": "Hop Protocol",
+    "desc": "bridge",
+    "desc_en": "bridge",
+    "url": "https://hop.exchange/",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/HopProtocol.jpeg",
+    "image": ""
+  },
+  {
+    "name": "xpollinate",
+    "name_en": "xpollinate",
+    "desc": "",
+    "desc_en": "A protocol for sending tokens across rollups and their shared layer-1 network in a quick and trustless manner",
+    "url": "https://xpollinate.io/",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/xpollinate.jpg",
+    "image": ""
+  },
+  {
     "name": "Staking on xDai",
     "name_en": "Staking on xDai",
     "desc": "在xDai上质押你的STAKE!",
@@ -558,6 +580,28 @@
     "image": ""
   },
   {
+    "name": "UniDex",
+    "name_en": "UniDex",
+    "desc": "终极去中心化 DeFi 交易终端，旨在聚合掉期、期权、期货和其他金融工具的所有市场。",
+    "desc_en": "The ultimate decentralized DeFi trading terminal designed to aggregate every and all markets for swaps, options, futures, and other financial instruments.",
+    "url": "https://unidex.exchange/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/UniDex.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Symmetric",
+    "name_en": "Symmetric",
+    "desc": "一个自动做市商#AMM使#DeFi对所有人开放!",
+    "desc_en": "An Automated Market Maker #AMM making #DeFi accessible to ALL!",
+    "url": "https://symmetric.finance/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/0xSymmetric.jpeg",
+    "image": ""
+  },
+  {
     "name": "Cargo",
     "name_en": "Cargo",
     "desc": "",
@@ -798,6 +842,28 @@
     "tag": "NFT",
     "tag_en": "NFT",
     "logo": "/images/Defungify.png",
+    "image": ""
+  },
+  {
+    "name": "Project Galaxy",
+    "name_en": "Project Galaxy",
+    "desc": "用#NFT模块为链上凭证提供动力。",
+    "desc_en": "Powering on-chain credentials with #NFT modules.",
+    "url": "https://galaxy.eco",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/ProjectGalaxy.jpeg",
+    "image": ""
+  },
+  {
+    "name": "PolkaDoge",
+    "name_en": "PolkaDoge",
+    "desc": "POLKA+DOGE, 多链NFT市场, Polkadot网络上的第一个 Memecoin",
+    "desc_en": "POLKA+DOGE,Multichain NFT Marketplace,1st Memecoin on Polkadot Network as well",
+    "url": "https://nft.polkadoge.co/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/PolkaDoge.jpeg",
     "image": ""
   },
   {
@@ -1579,6 +1645,50 @@
     "image": ""
   },
   {
+    "name": "Wallet 3",
+    "name_en": "Wallet 3",
+    "desc": "去银行化时代的安全钱包",
+    "desc_en": "A Secure Wallet for Bankless Era",
+    "url": "https://wallet3.io",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/Wallet3.png",
+    "image": ""
+  },
+  {
+    "name": "Pillar Wallet",
+    "name_en": "Pillar Wallet",
+    "desc": "社区运营，DAO治理",
+    "desc_en": "Community-run, DAO governed",
+    "url": "https://www.pillar.fi/",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/pillarwallet.jpeg",
+    "image": ""
+  },
+  {
+    "name": "D'CENT Wallet",
+    "name_en": "D'CENT Wallet",
+    "desc": "D'CENT 生物识别和应用程序钱包",
+    "desc_en": "D'CENT Biometric & App wallet.",
+    "url": "https://dcentwallet.com/",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/D'CENTWallet.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Coin98",
+    "name_en": "Coin98",
+    "desc": "非托管、多链钱包和 DeFi 网关",
+    "desc_en": "A Non-Custodial, Multi-Chain Wallet & DeFi Gateway",
+    "url": "https://coin98insights.com/",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/coin98_wallet.jpeg",
+    "image": ""
+  },
+  {
     "name": "Swarm",
     "name_en": "Swarm",
     "desc": "Swarm 是一个去中心化的存储和通信系统",
@@ -1587,6 +1697,72 @@
     "tag": "存储",
     "tag_en": "Storage",
     "logo": "/images/ethswarm.jpeg",
+    "image": ""
+  },
+  {
+    "name": "QuikNode",
+    "name_en": "QuikNode",
+    "desc": "开发人员可以为DApps或其他需求获得自己的自定义端点",
+    "desc_en": "Devs can get their own custom endpoint for DApps or other needs",
+    "url": "https://blog.quiknode.io/xdai-network-is-live-on-quiknode",
+    "tag": "节点提供商",
+    "tag_en": "Node providers",
+    "logo": "/images/quicknode.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Ankr",
+    "name_en": "Ankr",
+    "desc": "提供API端点访问，有一个免费层级，每天最多10万个请求。开发者可以获得额外的付费层",
+    "desc_en": "offers API endpoint access available with a free tier up to 100K requests/day. Additional paid tiers are available for developers. ",
+    "url": "https://www.ankr.com/",
+    "tag": "节点提供商",
+    "tag_en": "Node providers",
+    "logo": "/images/ankr.jpeg",
+    "image": ""
+  },
+  {
+    "name": "GetBlock.io",
+    "name_en": "GetBlock.io",
+    "desc": "提供快速和简单的API连接服务到xDai存档节点。有免费和付费两种级别",
+    "desc_en": "provides fast and easy API connection services to an xDai archive node.",
+    "url": "https://getblock.io/nodes/stake",
+    "tag": "节点提供商",
+    "tag_en": "Node providers",
+    "logo": "/images/getblockio.jpeg",
+    "image": ""
+  },
+  {
+    "name": "AnyBlock Analytics",
+    "name_en": "AnyBlock Analytics",
+    "desc": "为用户提供JSON-RPC专业服务",
+    "desc_en": "provides a JSON-RPC professional service for users.",
+    "url": "https://www.anyblockanalytics.com/",
+    "tag": "节点提供商",
+    "tag_en": "Node providers",
+    "logo": "/images/Anyblock.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Pocket",
+    "name_en": "Pocket",
+    "desc": "袖珍去中心化的基础设施，一键式终端和监控",
+    "desc_en": "Pocket decentralized infrastructure, 1-click endpoints and monitoring",
+    "url": "https://www.portal.pokt.network",
+    "tag": "节点提供商",
+    "tag_en": "Node providers",
+    "logo": "/images/PocketPortal.png",
+    "image": ""
+  },
+  {
+    "name": "SANA",
+    "name_en": "SANA",
+    "desc": "是一个使用容量证明算法的 p2p 存储区域节点网络",
+    "desc_en": "a p2p storage area node network using the Proof of Capacity algorithm",
+    "url": "https://www.ethsana.org/",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/EthereumSANA.jpeg",
     "image": ""
   },
   {
@@ -1759,14 +1935,49 @@
     "des_es": "Encuesta de incentivos"
   },
   {
-    "name": "Wallet 3",
-    "name_en": "Wallet 3",
-    "desc": "去银行化时代的安全钱包",
-    "desc_en": "A Secure Wallet for Bankless Era",
-    "url": "https://wallet3.io",
-    "tag": "钱包",
-    "tag_en": "Wallets",
-    "logo": "/images/Wallet3.png",
+    "name": "CryptoSurvey",
+    "name_en": "CryptoSurvey",
+    "desc": "激励性的调查",
+    "desc_en": "Incentivized surveys",
+    "url": "https://dapp.cryptosurvey.market/surveys",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/CryptoSurvey.png",
+    "image": "",
+    "tag_es": "More",
+    "des_es": "Encuesta de incentivos"
+  },
+  {
+    "name": "DAppNode",
+    "name_en": "DAppNode",
+    "desc": "DAppNode是一个推进去中心化的操作系统和硬件，消除了托管节点和DApps的复杂性。",
+    "desc_en": "DAppNode is an OS and hardware to advance decentralization, taking complexity out of hosting nodes & DApps",
+    "url": "https://dappnode.io",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/DAppNode.jpeg",
+    "image": ""
+  },
+  {
+    "name": "HAL",
+    "name_en": "HAL",
+    "desc": "用HAL全栈、无代码、跨链的信息传递自动化平台为Web3到Web2搭建桥梁",
+    "desc_en": "Bridge Web3 to Web2 with HAL full stack, no-code, cross-chain messaging automation platform",
+    "url": "https://dappnode.io",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/HAL.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Permapost",
+    "name_en": "Permapost",
+    "desc": "Permapost 是一个新的写字的手不可审查的内容平台",
+    "desc_en": "Permapost is a new uncensorable content platform",
+    "url": "https://www.permapost.io/",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "",
     "image": ""
   }
 ]
