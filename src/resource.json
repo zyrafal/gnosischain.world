@@ -85,6 +85,17 @@
     "image": ""
   },
   {
+    "name":"xDAI水龙头",
+    "name_en": "xDAI Faucet",
+    "desc": "使用xDAI，0.01美元允许你做很多交易(不一定能领到)",
+    "desc_en": "With xDAI, $0.01 allows you to do a lot transactions(Not always available)",
+    "url": "https://xdai-faucet.top/",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/1Hive.png",
+    "image": ""
+  },
+  {
     "name": "Hop Protocol",
     "name_en": "Hop Protocol",
     "desc": "bridge",
