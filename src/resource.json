@@ -87,12 +87,12 @@
   {
     "name":"xDAI水龙头",
     "name_en": "xDAI Faucet",
-    "desc": "使用xDAI，0.01美元允许你做很多交易(不一定能领到)",
-    "desc_en": "With xDAI, $0.01 allows you to do a lot transactions(Not always available)",
-    "url": "https://xdai-faucet.top/",
+    "desc": "获得0.01 xDai(领不到多试几次)",
+    "desc_en": "Get 0.01 xDai(Try a few more times if you can't get it)",
+    "url": "https://xdai-app.herokuapp.com/faucet",
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
-    "logo": "/images/1Hive.png",
+    "logo": "/images/xDai.png",
     "image": ""
   },
   {
