@@ -85,7 +85,7 @@
     "image": ""
   },
   {
-    "name":"xDAI水龙头",
+    "name": "xDAI水龙头",
     "name_en": "xDAI Faucet",
     "desc": "获得0.01 xDai(领不到多试几次)",
     "desc_en": "Get 0.01 xDai(Try a few more times if you can't get it)",
@@ -250,6 +250,19 @@
     "tag": "基础设施",
     "tag_en": "Infrastructure",
     "logo": "/images/Colony.png",
+    "image": "",
+    "tag_es": "Infrastructure",
+    "des_es": "Herramienta de organización para las DAO."
+  },
+  {
+    "name": "HOPR",
+    "name_en": "HOPR",
+    "desc": "永远改变数据隐私",
+    "desc_en": "Changing Data Privacy For Good",
+    "url": "https://hoprnet.org/",
+    "tag": "基础设施",
+    "tag_en": "Infrastructure",
+    "logo": "/images/HOPR.png",
     "image": "",
     "tag_es": "Infrastructure",
     "des_es": "Herramienta de organización para las DAO."
@@ -613,6 +626,28 @@
     "image": ""
   },
   {
+    "name": "CowSwap",
+    "name_en": "CowSwap",
+    "desc": "MEV 保护交易的 COW（需求巧合）",
+    "desc_en": "COWs (Coincidence of Wants) for MEV protected trades.",
+    "url": "https://cowswap.exchange/#/swap",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/cowswap.jpeg",
+    "image": ""
+  },
+  {
+    "name": "GUStakes",
+    "name_en": "GUStakes",
+    "desc": "检查一下，玩得开心",
+    "desc_en": "check it out, and have fun",
+    "url": "https://gustakes.gg/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/GUStakes.jpeg",
+    "image": ""
+  },
+  {
     "name": "Cargo",
     "name_en": "Cargo",
     "desc": "",
@@ -867,6 +902,17 @@
     "image": ""
   },
   {
+    "name": "Cold Truth Culture",
+    "name_en": "Cold Truth Culture",
+    "desc": "NFT艺术家和收藏家的区块链社区DAO, 向CTC工作人员提交和申请艺术品设计",
+    "desc_en": "Blockchain community DAO of NFT artists and collectors Submit and request artwork designs to the CTC crew",
+    "url": "https://www.coldtruthculture.io/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/ColdTruthCulture.jpeg",
+    "image": ""
+  },
+  {
     "name": "PolkaDoge",
     "name_en": "PolkaDoge",
     "desc": "POLKA+DOGE, 多链NFT市场, Polkadot网络上的第一个 Memecoin",
@@ -875,6 +921,17 @@
     "tag": "NFT",
     "tag_en": "NFT",
     "logo": "/images/PolkaDoge.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Genuino",
+    "name_en": "Genuino",
+    "desc": "连接#NFTs与真实世界的物体",
+    "desc_en": "Connecting NFTs with real world objects",
+    "url": "https://linktr.ee/GenuinoWorld",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/Genuino.jpeg",
     "image": ""
   },
   {
@@ -1350,7 +1407,7 @@
     "name_en": "Dappquery",
     "desc": "智能合约仪表盘",
     "desc_en": "Smart Contract dashboards, metrics and visualizations",
-    "url": "智能合约仪表盘",
+    "url": "https://dappquery.com/",
     "tag": "分析",
     "tag_en": "Analytics",
     "logo": "/images/Dappquery.png",
@@ -1700,6 +1757,40 @@
     "image": ""
   },
   {
+    "name": "Rabby",
+    "name_en": "Rabby",
+    "desc": "为 DeFi 用户提供更好的扩展钱包",
+    "desc_en": "A better extension wallet for DeFi users",
+    "url": "https://rabby.io/",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/Rabby.jpeg",
+    "image": ""
+  },
+  {
+    "name": "DinoWallet",
+    "name_en": "DinoWallet",
+    "desc": "Dino钱包",
+    "desc_en": "This is Official Dino Wallet App Crypto",
+    "url": "https://dinowallet.org/",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/DinoWallet.jpeg",
+    "image": ""
+  },
+  {
+    "name": "okex wallet",
+    "name_en": "okex wallet",
+    "desc": "okex钱包",
+    "desc_en": "okex wallet",
+    "url": "https://www.okex.com/wallet/",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/OKEX.jpeg",
+    "image": ""
+  },
+
+  {
     "name": "Swarm",
     "name_en": "Swarm",
     "desc": "Swarm 是一个去中心化的存储和通信系统",
@@ -1989,6 +2080,28 @@
     "tag": "更多",
     "tag_en": "More",
     "logo": "",
+    "image": ""
+  },
+  {
+    "name": "SuperToken",
+    "name_en": "SuperToken",
+    "desc": "使用SuperToken可以在几秒钟内铸造你自己的代币!",
+    "desc_en": "Use SuperToken to mint your own token in seconds!",
+    "url": "https://rskcoins.xyz/erc20-generator",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "",
+    "image": ""
+  },
+  {
+    "name": "Kleros",
+    "name_en": "Kleros",
+    "desc": "Kleros 是针对新经济纠纷的去中心化仲裁服务。",
+    "desc_en": "Kleros is a decentralized arbitration service for the disputes of the new economy.",
+    "url": "https://kleros.io/",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/Kleros.jpeg",
     "image": ""
   }
 ]
