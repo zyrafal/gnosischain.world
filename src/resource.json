@@ -151,6 +151,17 @@
     "image": ""
   },
   {
+    "name": "DIA",
+    "name_en": "DIA",
+    "desc": "分散式金融的开源数据",
+    "desc_en": "Open-Source Oracles for Decentralised Finance.",
+    "url": "https://diadata.org",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/DIAData.jpeg",
+    "image": ""
+  },
+  {
     "name": "1Hive",
     "name_en": "1Hive",
     "desc": "我们正在探索如何创建和组织一个全球社区，并利用神奇的互联网资金作为催化剂。",
@@ -2122,17 +2133,6 @@
     "tag": "更多",
     "tag_en": "More",
     "logo": "/images/Kleros.jpeg",
-    "image": ""
-  },
-  {
-    "name": "DIA",
-    "name_en": "DIA",
-    "desc": "DIA 是一个开源数据平台，允许市场参与者提供、共享和使用透明的、经过人群验证的数据和预言机",
-    "desc_en": "DIA is an open-source data platform that allows market actors to supply, share and use transparent, crowd-verified data and oracles",
-    "url": "https://diadata.org",
-    "tag": "更多",
-    "tag_en": "More",
-    "logo": "/images/DIAData.jpeg",
     "image": ""
   },
   {
