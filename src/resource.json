@@ -648,6 +648,39 @@
     "image": ""
   },
   {
+    "name": "EthereumPay",
+    "name_en": "EthereumPay",
+    "desc": "为商业而生，为世界而生",
+    "desc_en": "Built for commerce but made for the world",
+    "url": "https://linktr.ee/EthereumPay",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/EthereumPay.jpeg",
+    "image": ""
+  },
+  {
+    "name": "CryptExLocker",
+    "name_en": "CryptExLocker",
+    "desc": "CryptEx Locker 保护#BSC、#POLYGON和#xDai上的资金免受地毯和团队滥用",
+    "desc_en": "CryptEx Locker protects funds from rugs and team abuse on #BSC, #POLYGON and #xDai",
+    "url": "https://cryptexlock.me/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/ExLocker.jpeg",
+    "image": ""
+  },
+  {
+    "name": "UselessMEV",
+    "name_en": "UselessMEV",
+    "desc": "我是一台无用的机器#MEV",
+    "desc_en": "I'm a useless machine powered by #MEV",
+    "url": "https://www.useless-mev-machine.com/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/UselessMEV.jpeg",
+    "image": ""
+  },
+  {
     "name": "Cargo",
     "name_en": "Cargo",
     "desc": "",
@@ -928,7 +961,7 @@
     "name_en": "Genuino",
     "desc": "连接#NFTs与真实世界的物体",
     "desc_en": "Connecting NFTs with real world objects",
-    "url": "https://linktr.ee/GenuinoWorld",
+    "url": "https://genuino.world/about",
     "tag": "NFT",
     "tag_en": "NFT",
     "logo": "/images/Genuino.jpeg",
@@ -1546,19 +1579,6 @@
     "des_es": "Carga útil en xDai"
   },
   {
-    "name": "MCDC",
-    "name_en": "MCDC",
-    "desc": "McDonaldsCoin 模仿项目 NFT，允许你在 Unifty 上做收益耕作",
-    "desc_en": "McDonaldsCoin parody project NFT farming on Unifty.",
-    "url": "https://gateway.pinata.cloud/ipfs/QmQrNhDEo86XPzZZcaQyFzuB5ntwWckwK5s2SRLx2uDHNU/",
-    "tag": "游戏",
-    "tag_en": "Games",
-    "logo": "/images/MCDC.png",
-    "image": "",
-    "tag_es": "Games",
-    "des_es": "McDonald's imita el proyecto agrícola NFT en Unifty."
-  },
-  {
     "name": "DexWallet",
     "name_en": "DexWallet",
     "desc": "DexWallet 是一个安全、多链的移动钱包，即将推出移动端一键兑换功能",
@@ -2102,6 +2122,50 @@
     "tag": "更多",
     "tag_en": "More",
     "logo": "/images/Kleros.jpeg",
+    "image": ""
+  },
+  {
+    "name": "DIA",
+    "name_en": "DIA",
+    "desc": "DIA 是一个开源数据平台，允许市场参与者提供、共享和使用透明的、经过人群验证的数据和预言机",
+    "desc_en": "DIA is an open-source data platform that allows market actors to supply, share and use transparent, crowd-verified data and oracles",
+    "url": "https://diadata.org",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/DIAData.jpeg",
+    "image": ""
+  },
+  {
+    "name": "TEC",
+    "name_en": "TEC",
+    "desc": "👩‍🌾培育TE生态系统🕊️管理公共池",
+    "desc_en": "👩‍🌾 Cultivating the TE ecosystem 🕊️ Stewarding the common pool",
+    "url": "https://hatch.tecommons.org/",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/TEC.jpeg",
+    "image": ""
+  },
+  {
+    "name": "HashEx",
+    "name_en": "HashEx",
+    "desc": "区块链咨询/安全审计/开发",
+    "desc_en": "Blockchain Advisory / Security Audits / Development",
+    "url": "https://hashex.org",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/HashExOfficial.jpeg",
+    "image": ""
+  },
+  {
+    "name": "CelerNetwork",
+    "name_en": "CelerNetwork",
+    "desc": "通过第 2 层扩展为区块链带来大规模采用",
+    "desc_en": "Bring mass adoption to blockchain via layer2 scaling",
+    "url": "https://celer.network",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/CelerNetwork.jpeg",
     "image": ""
   }
 ]
