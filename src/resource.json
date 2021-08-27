@@ -2167,5 +2167,16 @@
     "tag_en": "More",
     "logo": "/images/CelerNetwork.jpeg",
     "image": ""
+  },
+  {
+    "name": "DeferSwap",
+    "name_en": "DeferSwap",
+    "desc": "A decentralized order book trading protocol.",
+    "desc_en": "A decentralized order book trading protocol.",
+    "url": "https://xdai.deferswap.com",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/deferswap.jpeg",
+    "image": ""
   }
 ]
