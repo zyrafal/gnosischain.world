@@ -874,19 +874,6 @@
     "des_es": "NFT limitado, único y personalizado creado y propiedad de la comunidad."
   },
   {
-    "name": "MCDC",
-    "name_en": "MCDC",
-    "desc": "McDonaldsCoin 模仿项目 NFT，允许你在 Unifty 上做收益耕作",
-    "desc_en": "McDonaldsCoin parody project NFT farming on Unifty.",
-    "url": "https://gateway.pinata.cloud/ipfs/QmQrNhDEo86XPzZZcaQyFzuB5ntwWckwK5s2SRLx2uDHNU/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/MCDC.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "McDonald's imita el proyecto agrícola NFT en Unifty."
-  },
-  {
     "name": "HashAvatars",
     "name_en": "HashAvatars",
     "desc": "生成在xDai上以 Hash 名称",
@@ -976,6 +963,17 @@
     "tag": "NFT",
     "tag_en": "NFT",
     "logo": "/images/Genuino.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Nifty Zone",
+    "name_en": "Nifty Zone",
+    "desc": "在亚洲诞生的数字艺术作品",
+    "desc_en": "Art Pieces born-digital in Asia",
+    "url": "https://www.niftyzone.com/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/niftyzonenft.jpeg",
     "image": ""
   },
   {
