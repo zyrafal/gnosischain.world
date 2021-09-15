@@ -725,6 +725,17 @@
     "image": ""
   },
   {
+    "name": "Synapse Network",
+    "name_en": "Synapse Network",
+    "desc": "旨在将一个由 DeFi 产品支持的完全受监管的金融机构的想法带给大众",
+    "desc_en": "Aims to bring the idea of a fully regulated financial institution backed by DeFi products to the masses.",
+    "url": "https://synapse.network/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/SynapseNetwork_.jpeg",
+    "image": ""
+  },
+  {
     "name": "Cargo",
     "name_en": "Cargo",
     "desc": "",
