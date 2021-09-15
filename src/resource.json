@@ -692,6 +692,17 @@
     "image": ""
   },
   {
+    "name": "Tornado.cash",
+    "name_en": "Tornado.cash",
+    "desc": "以太坊上的非托管匿名交易。",
+    "desc_en": "Non-custodial anonymous transactions on Ethereum.",
+    "url": "https://tornado.cash/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/TornadoCash.jpeg",
+    "image": ""
+  },
+  {
     "name": "Cargo",
     "name_en": "Cargo",
     "desc": "",
@@ -977,6 +988,17 @@
     "image": ""
   },
   {
+    "name": "xDaiPunks",
+    "name_en": "xDaiPunks",
+    "desc": "xDai 区块链上的朋克",
+    "desc_en": "Punks on the xDai blockchain",
+    "url": "https://xdaipunks.com/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/xDaiPunks.png",
+    "image": ""
+  },
+  {
     "name": "POAP",
     "name_en": "POAP",
     "desc": "出席证明协议（NFTs）",
@@ -1105,6 +1127,17 @@
     "image": "",
     "tag_es": "Community Engagement",
     "des_es": "Incubadora de cadena xDai de la comunidad que impulsa nuevos proyectos."
+  },
+  {
+    "name": "SHΞ",
+    "name_en": "SHΞ",
+    "desc": "SHE 是 Web 3 上的一个社交平台，通过粉丝投资为草根运动员赋能。由运动员为运动员打造。",
+    "desc_en": "SHE is a social platform on Web 3 that empowers grassroots athletes via fan investment. Built by athletes for athletes. ",
+    "url": "https://she.energy/",
+    "tag": "社区",
+    "tag_en": "Community Engagement",
+    "logo": "/images/She_Dapp.jpeg",
+    "image": ""
   },
   {
     "name": "Omen Prediction Market",
