@@ -331,6 +331,19 @@
     "des_es": "Cadena cruzada Dex"
   },
   {
+    "name": "Swap.Cat",
+    "name_en": "Swap.Cat",
+    "desc": "wallet2wallet OTC DEX",
+    "desc_en": "wallet2wallet OTC DEX",
+    "url": "https://swap.cat",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/swap.cat.png",
+    "image": "",
+    "tag_es": "DeFi",
+    "des_es": "wallet2wallet OTC DEX"
+  },
+  {
     "name": "BaoFinance",
     "name_en": "BaoFinance",
     "desc": "抵押 Sushiswap和 Baoswap LP 代币赚取 BAO",
