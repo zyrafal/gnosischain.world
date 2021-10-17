@@ -793,6 +793,28 @@
     "image": ""
   },
   {
+    "name": "APY Vision",
+    "name_en": "APY Vision",
+    "desc": "#DeFi 中用于跨链跟踪流动性及奖励的工具",
+    "desc_en": "Most comprehensive tool in #DeFi for tracking your liquidity positions & rewards cross-chain.",
+    "url": "https://apy.vision/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/APYVision.png",
+    "image": ""
+  },
+  {
+    "name": "Glufco",
+    "name_en": "Glufco",
+    "desc": "委内瑞拉用户可以使用Glufco将Bolivars转为xDai，并使用稳定币进行购买、p2p交易及其他种类的支付",
+    "desc_en": "lets users in Venezuela convert Bolivars to xDai and use a stable currency for purchases, p2p transfers, and any other types of payments",
+    "url": " https://glufco.com/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/Glufco.png",
+    "image": ""
+  },
+  {
     "name": "Cargo",
     "name_en": "Cargo",
     "desc": "",
@@ -1097,6 +1119,17 @@
     "tag": "NFT",
     "tag_en": "NFT",
     "logo": "/images/xDaiTigers.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Knockoff",
+    "name_en": "Knockoff",
+    "desc": "用户可以使用 Knockoff NFT 拷贝已有的 NFT",
+    "desc_en": "With Knockoff NFT, you can copy NFTs and take the knockoffs for yourself.",
+    "url": "https://www.knockoff.lol/#/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/Knockoff.jpeg",
     "image": ""
   },
   {
@@ -2096,6 +2129,50 @@
     "image": ""
   },
   {
+    "name": "Multisender",
+    "name_en": "Multisender",
+    "desc": "使用 NFT MultiSender 在单笔交易中将 #ERC721 和 #ERC1155(#NFT) 代币发送到多个地址。",
+    "desc_en": "Send #ERC721 & #ERC1155(#NFT) Tokens to thousands of addresses out in a single transaction with NFT MultiSender.",
+    "url": "https://multisender.app/",
+    "tag": "代币分发",
+    "tag_en": "Token Distribution",
+    "logo": "/images/Multisender.jpeg",
+    "image": ""
+  },
+  {
+    "name": "disperse",
+    "name_en": "disperse",
+    "desc": "将以太或代币分发到多个地址",
+    "desc_en": "verb distribute ether or tokens to multiple addresses",
+    "url": "https://disperse.app/",
+    "tag": "代币分发",
+    "tag_en": "Token Distribution",
+    "logo": "/images/Disperse.jpeg",
+    "image": ""
+  },
+  {
+    "name": "SuperToken",
+    "name_en": "SuperToken",
+    "desc": "使用SuperToken可以在几秒钟内铸造你自己的代币!",
+    "desc_en": "Use SuperToken to mint your own token in seconds!",
+    "url": "https://rskcoins.xyz/xdai-generator",
+    "tag": "代币分发",
+    "tag_en": "Token Distribution",
+    "logo": "",
+    "image": ""
+  },
+  {
+    "name": "Iroiro",
+    "name_en": "Iroiro",
+    "desc": "在以太坊上管理代币的协议🎨",
+    "desc_en": "A protocol for managing tokens on Ethereum 🎨",
+    "url": "https://app.iroiro.social/#/",
+    "tag": "代币分发",
+    "tag_en": "Token Distribution",
+    "logo": "/images/IroiroTokens.png",
+    "image": ""
+  },
+  {
     "name": "0xMonero",
     "name_en": "0xMonero",
     "desc": "使用 zk-SNARKs 和 0xMixer 的隐私 Token",
@@ -2320,89 +2397,12 @@
     "image": ""
   },
   {
-    "name": "Multisender",
-    "name_en": "Multisender",
-    "desc": "使用 NFT MultiSender 在单笔交易中将 #ERC721 和 #ERC1155(#NFT) 代币发送到多个地址。",
-    "desc_en": "Send #ERC721 & #ERC1155(#NFT) Tokens to thousands of addresses out in a single transaction with NFT MultiSender.",
-    "url": "https://multisender.app/",
-    "tag": "代币分发",
-    "tag_en": "Token Distribution",
-    "logo": "/images/Multisender.jpeg",
-    "image": ""
-  },
-  {
-    "name": "disperse",
-    "name_en": "disperse",
-    "desc": "将以太或代币分发到多个地址",
-    "desc_en": "verb distribute ether or tokens to multiple addresses",
-    "url": "https://disperse.app/",
-    "tag": "代币分发",
-    "tag_en": "Token Distribution",
-    "logo": "/images/Disperse.jpeg",
-    "image": ""
-  },
-  {
-    "name": "SuperToken",
-    "name_en": "SuperToken",
-    "desc": "使用SuperToken可以在几秒钟内铸造你自己的代币!",
-    "desc_en": "Use SuperToken to mint your own token in seconds!",
-    "url": "https://rskcoins.xyz/xdai-generator",
-    "tag": "代币分发",
-    "tag_en": "Token Distribution",
-    "logo": "",
-    "image": ""
-  },
-  {
-    "name": "Iroiro",
-    "name_en": "Iroiro",
-    "desc": "在以太坊上管理代币的协议🎨",
-    "desc_en": "A protocol for managing tokens on Ethereum 🎨",
-    "url": "https://app.iroiro.social/#/",
-    "tag": "代币分发",
-    "tag_en": "Token Distribution",
-    "logo": "/images/IroiroTokens.png",
-    "image": ""
-  },
-  {
-    "name": "APY Vision",
-    "name_en": "APY Vision",
-    "desc": "#DeFi 中用于跨链跟踪流动性及奖励的工具",
-    "desc_en": "Most comprehensive tool in #DeFi for tracking your liquidity positions & rewards cross-chain.",
-    "url": "https://apy.vision/",
-    "tag": "",
-    "tag_en": "More",
-    "logo": "/images/APYVision.png",
-    "image": ""
-  },
-  {
-    "name": "Glufco",
-    "name_en": "Glufco",
-    "desc": "委内瑞拉用户可以使用Glufco将Bolivars转为xDai，并使用稳定币进行购买、p2p交易及其他种类的支付",
-    "desc_en": "lets users in Venezuela convert Bolivars to xDai and use a stable currency for purchases, p2p transfers, and any other types of payments",
-    "url": " https://glufco.com/",
-    "tag": "",
-    "tag_en": "More",
-    "logo": "/images/Glufco.png",
-    "image": ""
-  },
-  {
-    "name": "Knockoff",
-    "name_en": "Knockoff",
-    "desc": "用户可以使用 Knockoff NFT 拷贝已有的 NFT",
-    "desc_en": "With Knockoff NFT, you can copy NFTs and take the knockoffs for yourself.",
-    "url": "https://www.knockoff.lol/#/",
-    "tag": "",
-    "tag_en": "More",
-    "logo": "/images/Knockoff.jpeg",
-    "image": ""
-  },
-  {
     "name": "Zodiac from Gnosis Guild",
     "name_en": "Zodiac from Gnosis Guild",
     "desc": "Zodiac 为 DAO 提供了一系列扩展工具",
     "desc_en": "Zodiac is the expansion pack for DAOs. A DAO on one chain (xDai included) can interact with systems on another",
     "url": "https://gnosisguild.mirror.xyz/OuhG5s2X5uSVBx1EK4tKPhnUc91Wh9YM0fwSnC8UNcg",
-    "tag": "",
+    "tag": "更多",
     "tag_en": "More",
     "logo": "",
     "image": ""
