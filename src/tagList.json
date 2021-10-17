@@ -56,11 +56,15 @@
     "tag_en": "Storage"
   },
   {
-    "tag": "更多",
-    "tag_en": "More"
-  },
-  {
     "tag": "节点提供商",
     "tag_en": "Node providers"
+  },
+  {
+    "tag": "代币分发",
+    "tag_en": "Token Distribution"
+  },
+  {
+    "tag": "更多",
+    "tag_en": "More"
   }
 ]
