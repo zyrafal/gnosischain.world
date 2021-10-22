@@ -1133,6 +1133,17 @@
     "image": ""
   },
   {
+    "name": "NFT Calendar",
+    "name_en": "NFT Calendar",
+    "desc": "高调的 #NFT 发布及空投",
+    "desc_en": "High-profile #NFT releases and drops.",
+    "url": "https://nftcalendar.io/b/xdai/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/nftcalendar.png",
+    "image": ""
+  },
+  {
     "name": "POAP",
     "name_en": "POAP",
     "desc": "出席证明协议（NFTs）",
