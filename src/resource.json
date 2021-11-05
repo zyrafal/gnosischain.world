@@ -184,6 +184,17 @@
     "image": ""
   },
   {
+    "name": "PolyBridge from Poly Network",
+    "name_en": "PolyBridge from Poly Network",
+    "desc": "构建下一代互联网基础设施，实现多链互通",
+    "desc_en": "To build the next generation Internet infrastructure, realize interoperability between multiple chains",
+    "url": "https://bridge.poly.network/testnet",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/PolyBridge.svg",
+    "image": ""
+  },
+  {
     "name": "开发资源",
     "name_en": "Developer Resources",
     "desc": "一般信息和链接",
