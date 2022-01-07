@@ -334,6 +334,17 @@
     "image": ""
   },
   {
+    "name": "SmashCash",
+    "name_en": "SmashCash",
+    "desc": "第一个支持wBTC ADA DOT XRP USDC Fantom Harmony  MVR Arbitrum & HECO supports ETH, BNB,AVAX, MATIC, XDAI 的私人匿名交易",
+    "desc_en": "1st in History-Private & Anonymous Transactions On wBTC ADA DOT XRP USDC Fantom Harmony  MVR Arbitrum & HECO supports ETH, BNB,AVAX, MATIC,XDAI",
+    "url": "https://smashcash.io/products/xdai/index.html",
+    "tag": "基础设施",
+    "tag_en": "Infrastructure",
+    "logo": "/images/SmashCash.jpeg",
+    "image": ""
+  },
+  {
     "name": "HoneySwap",
     "name_en": "HoneySwap",
     "desc": "构建于 xDai上 的去中心化交易所",
@@ -771,6 +782,17 @@
     "image": ""
   },
   {
+    "name": "Tornado Cash Nova",
+    "name_en": "Tornado Cash Nova",
+    "desc": "Tornado Cash Nova 推出任意金额和隐蔽转账",
+    "desc_en": "Tornado Cash Nova Introduces Arbitrary Amounts & Shielded Transfers.",
+    "url": "https://nova.tornadocash.eth.link/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/TornadoCash.jpeg",
+    "image": ""
+  },
+  {
     "name": "DeferSwap",
     "name_en": "DeferSwap",
     "desc": "A decentralized order book trading protocol.",
@@ -823,6 +845,94 @@
     "tag": "DeFi",
     "tag_en": "DeFi",
     "logo": "/images/Glufco.png",
+    "image": ""
+  },
+  {
+    "name": "DeHive",
+    "name_en": "DeHive",
+    "desc": "即使您的交易经验为零，DeHive 也可以帮助任何人获得加密货币的最大年收益",
+    "desc_en": "DeHive helps anyone gain the maximum possible annual yield on cryptocurrencies even if you have zero experience in trading.",
+    "url": "https://dehive.finance/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/DeHive.png",
+    "image": ""
+  },
+  {
+    "name": "DeFi.watch",
+    "name_en": "DeFi.watch",
+    "desc": "为您的资产选择最佳地点并跟踪您的投资表现。",
+    "desc_en": "Choose the best places for your assets & track the performance of your investment.",
+    "url": "https://defi.watch/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/DefiWatch.jpeg",
+    "image": ""
+  },
+  {
+    "name": "EmpireDEX",
+    "name_en": "EmpireDEX",
+    "desc": "EmpireDEX 是一个支持多链的 DEX 协议。",
+    "desc_en": "EmpireDEX is a Multi-Chain DEX Protocol",
+    "url": "https://xdai.empiredex.org/#/swap",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/EmpireDEX.jpeg",
+    "image": ""
+  },
+  {
+    "name": "O3 Swap",
+    "name_en": "O3 Swap",
+    "desc": "Web3的互操作聚合协议。",
+    "desc_en": "Interoperability Aggregation Protocol of Web3",
+    "url": "hhttps://o3.network/#/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/O3swap.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Defiyield",
+    "name_en": "Defiyield",
+    "desc": "由区块链安全网络保护的资产管理面板。",
+    "desc_en": "Asset Management Dashboard secured by a Blockchain Security Network.",
+    "url": "https://defiyield.app/dashboard/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/Defiyield.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Carrot",
+    "name_en": "Carrot",
+    "desc": "Carrot 是一个易于使用的平台，允许项目创建社区驱动的可编程激励。",
+    "desc_en": "Carrot is an easy-to-use platform that allows projects to create community-driven programmable incentives.",
+    "url": "https://twitter.com/CarrotEth",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/Carrot.png",
+    "image": ""
+  },
+  {
+    "name": "autofarm",
+    "name_en": "autofarm",
+    "desc": "一站式 DeFi 平台 |多链 DEX & 收益聚合器",
+    "desc_en": "One-stop DeFi platform | Multi-chain DEX & yield aggregator",
+    "url": "https://autofarm.network/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/autofarm.png",
+    "image": ""
+  },
+  {
+    "name": "OpenOcean",
+    "name_en": "OpenOcean",
+    "desc": "OpenOcean 是一个聚合器，以最高的交易效率为您提供去中心化和集中式交易所的最优惠价格。",
+    "desc_en": "OpenOcean is an aggregator giving you the best rates across decentralized and centralized exchanges with top trading efficiency. ",
+    "url": "https://openocean.finance/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/OpenOcean.jpeg",
     "image": ""
   },
   {
@@ -1155,6 +1265,17 @@
     "image": ""
   },
   {
+    "name": "CryptoWine",
+    "name_en": "CryptoWine",
+    "desc": "真是的红酒，完美储存。将它们收集为 NFT",
+    "desc_en": "cryptoWine - real wine bottles, perfectly stored. Collect them as NFTs",
+    "url": "https://cryptowine.at/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/CryptoWine.jpeg",
+    "image": ""
+  },
+  {
     "name": "POAP",
     "name_en": "POAP",
     "desc": "出席证明协议（NFTs）",
@@ -1411,6 +1532,17 @@
     "image": ""
   },
   {
+    "name": "Linguo by Kleros",
+    "name_en": "Linguo by Kleros",
+    "desc": "由 Kleros 提供的翻译服务。",
+    "desc_en": "Translation service provided by Kleros.",
+    "url": "https://linguo.kleros.io/home",
+    "tag": "治理",
+    "tag_en": "Governance",
+    "logo": "/images/Linguo.png",
+    "image": ""
+  },
+  {
     "name": "LexDAO",
     "name_en": "LexDAO",
     "desc": "去中心化的法律公会",
@@ -1575,6 +1707,17 @@
     "tag": "DAO组织",
     "tag_en": "DAOs",
     "logo": "/images/BrightID.png",
+    "image": ""
+  },
+  {
+    "name": "gardens",
+    "name_en": "gardens",
+    "desc": "Gardens 是任何人都可以参与塑造的数字经济",
+    "desc_en": "Gardens are digital economies that anyone can help shape",
+    "url": "https://gardens.1hive.org/#/home",
+    "tag": "DAO组织",
+    "tag_en": "DAOs",
+    "logo": "/images/gardens.png",
     "image": ""
   },
   {
@@ -1807,6 +1950,17 @@
     "tag": "游戏",
     "tag_en": "Games",
     "logo": "/images/AngelBattle.png",
+    "image": ""
+  },
+  {
+    "name": "IDLE",
+    "name_en": "IDLE",
+    "desc": "运行在区块链上的去中心化游戏",
+    "desc_en": "decentralized game built on blockchain.",
+    "url": "https://nineliveslabs.com/idle/",
+    "tag": "游戏",
+    "tag_en": "Games",
+    "logo": "",
     "image": ""
   },
   {
@@ -2071,6 +2225,28 @@
     "tag": "钱包",
     "tag_en": "Wallets",
     "logo": "/images/CoinbaseWallet.png",
+    "image": ""
+  },
+  {
+    "name": "CryptoBot Wallet",
+    "name_en": "CryptoBot Wallet",
+    "desc": "在您最喜欢的消息应用程序中存储、管理、质押和赚取加密货币",
+    "desc_en": "Store, manage, stake and earn cryptocurrencies from your favorite messaging app!",
+    "url": "https://cryptobot.page/",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/CryptoBot.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Cardstack Card Wallet",
+    "name_en": "Cardstack Card Wallet",
+    "desc": "Web3 的协作操作系统",
+    "desc_en": "The Collaborative OS for Web3",
+    "url": "https://cardstack.com/",
+    "tag": "钱包",
+    "tag_en": "Wallets",
+    "logo": "/images/Cardstack.jpeg",
     "image": ""
   },
   {
@@ -2427,6 +2603,28 @@
     "tag": "更多",
     "tag_en": "More",
     "logo": "",
+    "image": ""
+  },
+  {
+    "name": "ZeroPool",
+    "name_en": "ZeroPool",
+    "desc": "使用 ZK 的区块链匿名池。低交易费用、原子交换和通用匿名集",
+    "desc_en": "Anonymous pool on blockchain using ZK. Low transactions fees, atomic swaps, and common anonymity set",
+    "url": "https://zeropool.network/",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/ZeroPool.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Etherisc",
+    "name_en": "Etherisc",
+    "desc": "使用去中心化的保险协议构建保险产品。",
+    "desc_en": "Decentralized insurance protocol to collectively build insurance products.",
+    "url": "https://etherisc.com/",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/Etherisc.jpeg",
     "image": ""
   }
 ]
