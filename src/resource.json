@@ -1890,6 +1890,19 @@
     "des_es": "Juego de guerra espacial zkSNARK"
   },
   {
+    "name": "CoinQuest",
+    "name_en": "CoinQuest",
+    "desc": "免费玩和玩赚取MMORPG",
+    "desc_en": "Free to play & play to earn MMORPG",
+    "url": "https://coinquest.game",
+    "tag": "游戏",
+    "tag_en": "Games",
+    "logo": "/images/CoinQuest.png",
+    "image": "",
+    "tag_es": "Games",
+    "des_es": "Gratis para jugar y jugar para ganar MMORPG"
+  },
+  {
     "name": "Galleass",
     "name_en": "Galleass",
     "desc": "去中心化的资源管理游戏",
