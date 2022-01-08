@@ -17,7 +17,7 @@ import logo from './LOGOB2.svg'
 //   )
 // }
 const Logo = () => {
-  return <img src={logo} width='240' />
+  return <img src={logo} width='220' />
 }
 
 export default Logo;
