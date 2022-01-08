@@ -39,12 +39,12 @@ const theme = createMuiTheme({
 
 const translations = {
   zh: {
-    subTitle: 'xDai生态资源导航',
+    subTitle: 'Gnosis Chain 生态资源导航',
     more: '一起发现更多新产品',
     submit: '提　交',
   },
   en: {
-    subTitle: 'A Portal to xDai Ecosystem',
+    subTitle: 'A Portal to Gnosis Chain Ecosystem',
     more: 'Discover more new products',
     submit: 'Submit',
   }

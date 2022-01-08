@@ -28,10 +28,10 @@ const Header = ({
 
   const translations = {
     zh: {
-      ethTitle: 'XDai生态资源导航',
+      ethTitle: 'Gnosis Chain 生态资源导航',
     },
     en: {
-      ethTitle: 'A Portal to XDai Ecosystem',
+      ethTitle: 'A Portal to Gnosis Chain Ecosystem',
     }
   }
 
