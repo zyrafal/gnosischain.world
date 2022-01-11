@@ -1,4 +1,4 @@
-# xDai.world
+# GnosisChain.world
 
 forks from https://github.com/SparkPoolOfficial/eth123.org
 
