@@ -3,7 +3,7 @@
 forks from https://github.com/SparkPoolOfficial/eth123.org
 
 
-We are pleased that you are using xDai.world.
+We are pleased that you are using GnosisChain.world.
 
 
 # submitting new projects
