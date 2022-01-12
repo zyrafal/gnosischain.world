@@ -16,7 +16,7 @@ class NavItemList extends PureComponent {
     let len = list.length <= 8 ? 8 : 7;
     node = list.slice(0, len).map((item, index) => (
       <> 
-        {item.tag_en === "Tools & Resources" && item.name_en === "Switch to xDai" ? <SwitchNetworkItem
+        {item.tag_en === "Tools & Resources" && item.name_en === "Switch to GnosisChain" ? <SwitchNetworkItem
           key={index} 
           item={item}
           language={language}

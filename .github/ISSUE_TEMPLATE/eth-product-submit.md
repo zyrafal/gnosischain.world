@@ -1,6 +1,6 @@
 ---
 name: ETH product Submit
-about: We will check and included it to xdai.world
+about: We will check and included it to gnosischain.world
 title: ''
 labels: NewProduct
 assignees: ''

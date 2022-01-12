@@ -56,8 +56,8 @@ export function SwitchNetworkItem({
         await window.ethereum?.request({
           id: '1', jsonrpc: '2.0', method: 'wallet_addEthereumChain', params: [{
             chainId: '0x64',
-            chainName: 'xDai',
-            rpcUrls: ['https://dai.poa.network'],
+            chainName: 'GnosisChain',
+            rpcUrls: ['https://rpc.xdaichain.com/'],
             blockExplorerUrls: ['https://blockscout.com/poa/xdai'],
             nativeCurrency: {
               name: 'xDai',
@@ -158,7 +158,7 @@ const NavItem = ({
     <Grid item xs={6} sm={4} md={3}>
       <Link
         color="textPrimary"
-        href={`${website}?utm_resource=xdai.world`}
+        href={`${website}`}
         target="_blank"
         underline='none'
         onClick={() => {

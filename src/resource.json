@@ -52,10 +52,10 @@
     "des_es": "Nuestra tarea es facilitar la contraseña. Ramp proporciona un conjunto de SDK/API que permite a los usuarios comprar contraseñas directamente desde sus aplicaciones."
   },
   {
-    "name": "切换到xDai",
-    "name_en": "Switch to xDai",
-    "desc": "点我，一键切换到 xDai",
-    "desc_en": "Click me to switch to xDai with one click",
+    "name": "切换到GnosisChain",
+    "name_en": "Switch to GnosisChain",
+    "desc": "点我，一键切换到 GnosisChain",
+    "desc_en": "Click me to switch to GnosisChain with one click",
     "url": "",
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",

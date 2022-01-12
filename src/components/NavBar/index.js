@@ -178,7 +178,7 @@ class NavBar extends PureComponent {
                 alignItems="center"
                 justifyContent="center"
                 p={2}>
-                <img src={LogoImg} alt="xdai.world" width={180} />
+                <img src={LogoImg} alt="gnosischain.world" width={180} />
               </Box>
               <Divider />
               <Box

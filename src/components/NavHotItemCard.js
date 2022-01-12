@@ -52,7 +52,7 @@ class NavHotItemCard extends PureComponent {
                   <Link
                     color="textPrimary"
                     // href={`${language === 'zh' ? item.url : (item.url_en || item.url)}?utm_resource=xdai.world`}
-                    href={`${item.url}?utm_resource=xdai.world`}
+                    href={`${item.url}`}
                     target="_blank"
                     underline='none'
                     onClick={() => {

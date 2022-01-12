@@ -38,7 +38,7 @@ class Footer extends PureComponent {
             color="primary"
             style={{ textTransform: 'none' }}
             onClick={() => {
-              window.open('https://github.com/DAOSquare/xdai.world#submitting-new-projects');
+              window.open('https://github.com/DAOSquare/gnosischain.world#submitting-new-projects');
             }}
             >
             {t('submit')}
