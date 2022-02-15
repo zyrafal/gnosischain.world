@@ -345,6 +345,17 @@
     "image": ""
   },
   {
+    "name": "WPSmartContracts",
+    "name_en": "WPSmartContracts",
+    "desc": "WordPress 的智能合约插件 - 让区块链变得简单",
+    "desc_en": "Smart Contracts plugin for WordPress - Blockchain Made Easy",
+    "url": "https://wpsmartcontracts.com/networks/xdai-chain/",
+    "tag": "基础设施",
+    "tag_en": "Infrastructure",
+    "logo": "/images/wps.png",
+    "image": ""
+  },
+  {
     "name": "HoneySwap",
     "name_en": "HoneySwap",
     "desc": "构建于 xDai上 的去中心化交易所",
@@ -936,6 +947,28 @@
     "image": ""
   },
   {
+    "name": "1inch",
+    "name_en": "1inch",
+    "desc": "用于各种协议的分布式网络，可在#DeFi 中实现最受保护的操作",
+    "desc_en": "A distributed network for various protocols on #ETH, #BSC, #Avalanche, #Polygon, #OΞ, #Arbitrum and #Gnosis enabling the most protected operations in #DeFi.",
+    "url": "https://app.1inch.io/#/1/swap/ETH/DAI",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/1inch.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Qi Dao",
+    "name_en": "Qi Dao",
+    "desc": "开始以 0% 的利率借入您的加密货币。",
+    "desc_en": "Start borrowing at 0% interest against your crypto.",
+    "url": "https://www.mai.finance/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/qidao.jpeg",
+    "image": ""
+  },
+  {
     "name": "Cargo",
     "name_en": "Cargo",
     "desc": "",
@@ -1268,11 +1301,22 @@
     "name": "CryptoWine",
     "name_en": "CryptoWine",
     "desc": "真是的红酒，完美储存。将它们收集为 NFT",
-    "desc_en": "cryptoWine - real wine bottles, perfectly stored. Collect them as NFTs",
+    "desc_en": "The first open and decentralized NFT project made by some members of @1hiveorg ",
     "url": "https://cryptowine.at/",
     "tag": "NFT",
     "tag_en": "NFT",
     "logo": "/images/CryptoWine.jpeg",
+    "image": ""
+  },
+  {
+    "name": "NFBeez",
+    "name_en": "NFBeez",
+    "desc": "@1hiveorg 成员创建的第一个开放和去中心化的 NFT 项目",
+    "desc_en": "cryptoWine - real wine bottles, perfectly stored. Collect them as NFTs",
+    "url": "https://www.nfbeez.xyz/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/nfbeez.png",
     "image": ""
   },
   {
@@ -1536,10 +1580,21 @@
     "name_en": "Linguo by Kleros",
     "desc": "由 Kleros 提供的翻译服务。",
     "desc_en": "Translation service provided by Kleros.",
-    "url": "https://linguo.kleros.io/home",
+    "url": "https://linguo.kleros.io/homet",
     "tag": "治理",
     "tag_en": "Governance",
     "logo": "/images/Linguo.png",
+    "image": ""
+  },
+  {
+    "name": "crypto.coliving",
+    "name_en": "crypto.coliving",
+    "desc": "由 crypto 支持的 coliving。",
+    "desc_en": "Coliving powered by crypto.",
+    "url": "https://cryptocoliving.xyz/",
+    "tag": "治理",
+    "tag_en": "Governance",
+    "logo": "/images/coliving.jpeg",
     "image": ""
   },
   {
@@ -1974,6 +2029,28 @@
     "tag": "游戏",
     "tag_en": "Games",
     "logo": "",
+    "image": ""
+  },
+  {
+    "name": "Mithraeum",
+    "name_en": "Mithraeum",
+    "desc": "Mithraeum 是一款专注于政治和链上外交的纯 Web3 策略游戏",
+    "desc_en": "Mithraeum is a pure Web3 strategy game focused on politics and onchain diplomacy",
+    "url": "https://mithraeum.io/",
+    "tag": "游戏",
+    "tag_en": "Games",
+    "logo": "/images/Mithraeum.png",
+    "image": ""
+  },
+  {
+    "name": "Conquest.eth",
+    "name_en": "Conquest.eth",
+    "desc": "在 EVM 上运行的战略和外交游戏",
+    "desc_en": "A Game of Strategy and Diplomacy running on the EVM",
+    "url": "https://conquest.eth.limo/",
+    "tag": "游戏",
+    "tag_en": "Games",
+    "logo": "/images/conquest.jpeg",
     "image": ""
   },
   {
@@ -2649,6 +2726,28 @@
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
     "logo": "/images/xpnetwork.png",
+    "image": ""
+  },
+  {
+    "name": "DEX Screener",
+    "name_en": "DEX Screener",
+    "desc": "实时跟踪你最喜欢的DEX",
+    "desc_en": "Tracking and charting your favorite DEX in realtime",
+    "url": "https://dexscreener.com/xdai",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/dexscreener.jpeg",
+    "image": ""
+  },
+  {
+    "name": "Zapper",
+    "name_en": "Zapper",
+    "desc": "你在 web3 的家",
+    "desc_en": "Your home to web3. ",
+    "url": "https://zapper.fi",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/zapper.jpeg",
     "image": ""
   }
 ]
