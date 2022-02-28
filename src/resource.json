@@ -969,6 +969,17 @@
     "image": ""
   },
   {
+    "name": "Li.Finance",
+    "name_en": "Li.Finance",
+    "desc": "帮助 DEX、dApp 和钱包提供跨链交换 - 具有 DEX 连接性的终极桥接聚合",
+    "desc_en": "Helping DEXs, dApps & Wallets to offer cross-chain swaps - Ultimate bridge aggregation with DEX-connectivity",
+    "url": "https://li.finance/?fromChain=dai",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/lifi.png",
+    "image": ""
+  },
+  {
     "name": "Cargo",
     "name_en": "Cargo",
     "desc": "",
@@ -1034,8 +1045,8 @@
     "des_es": "Crear, comprar y vender NFT"
   },
   {
-    "name": "Snafu",
-    "name_en": "Snafu",
+    "name": "SNAFU",
+    "name_en": "SNAFU",
     "desc": "数字艺术家联盟",
     "desc_en": "Digital Artist Collective",
     "url": "https://www.nftsnafu.org/",
