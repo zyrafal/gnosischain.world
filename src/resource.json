@@ -2760,5 +2760,16 @@
     "tag_en": "Tools & Resources",
     "logo": "/images/zapper.jpeg",
     "image": ""
+  },
+  {
+    "name": "Etherboard",
+    "name_en": "Etherboard",
+    "desc": "一个实验性的公告板和投资平台，运行在Gnosis链上",
+    "desc_en": "An experimental announcement board and investment platform that is living on Gnosis blockchain.",
+    "url": "https://etherboard.io",
+    "tag": "更多",
+    "tag_en": "More",
+    "logo": "/images/Etherboard.jpeg",
+    "image": ""
   }
 ]
