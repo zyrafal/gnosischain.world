@@ -258,6 +258,19 @@
     "des_es": "Implementación de Token Bridge que conecta las cadenas ARTIS y xDai."
   },
   {
+    "name": "Punk.Domains",
+    "name_en": "Punk.Domains",
+    "desc": "域名服务。",
+    "desc_en": "Permissionless Web3 Domains.",
+    "url": "https://punk.domains/",
+    "tag": "基础设施",
+    "tag_en": "Infrastructure",
+    "logo": "/images/PunkDomains.png",
+    "image": "",
+    "tag_es": "Infrastructure",
+    "des_es": "Dominios de Web3."
+  },
+  {
     "name": "Origin Trail",
     "name_en": "Origin Trail",
     "desc": "专注于供应链的通用、协作和可信的数据交换服务。",
