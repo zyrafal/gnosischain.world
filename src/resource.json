@@ -2808,6 +2808,17 @@
     "image": ""
   },
   {
+    "name": "BiuBiu.Tools",
+    "name_en": "BiuBiu.Tools",
+    "desc": "一对多批量转账，方便快捷省时省力。帮你节省超过 50% 的 gas。",
+    "desc_en": "One-to-many batch sending of tokens, which is convenient, fast, time-saving and labor-saving.Helps you save more than 50% gas.",
+    "url": "https://biubiu.tools/#/apps/multisender",
+    "tag": "代币分发",
+    "tag_en": "Token Distribution",
+    "logo": "/images/biubiu.png",
+    "image": ""
+  }
+  {
     "name": "RareGems",
     "name_en": "RareGems",
     "desc": "多链式NFT市场",
