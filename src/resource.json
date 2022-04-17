@@ -2818,4 +2818,15 @@
     "logo": "/images/biubiu.png",
     "image": ""
   }
+  {
+    "name": "RareGems",
+    "name_en": "RareGems",
+    "desc": "多链式NFT市场",
+    "desc_en": "Multichain NFT marketplace",
+    "url": "https://raregems.io/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/RareGems.png",
+    "image": ""
+  }
 ]
