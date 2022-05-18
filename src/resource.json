@@ -2817,7 +2817,7 @@
     "tag_en": "Token Distribution",
     "logo": "/images/biubiu.png",
     "image": ""
-  }
+  },
   {
     "name": "RareGems",
     "name_en": "RareGems",
@@ -2827,6 +2827,17 @@
     "tag": "NFT",
     "tag_en": "NFT",
     "logo": "/images/RareGems.png",
+    "image": ""
+  },
+  {
+    "name": "Topos Finance",
+    "name_en": "Topos Finance",
+    "desc": "Off-chain value made accessible globally, on-chain.",
+    "desc_en": "Off-chain value made accessible globally, on-chain.",
+    "url": "https://www.topos.finance/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/ToposFinance.png",
     "image": ""
   }
 ]
