@@ -744,11 +744,13 @@
     "name_en": "CowSwap",
     "desc": "MEV 保护交易的 COW（需求巧合）",
     "desc_en": "COWs (Coincidence of Wants) for MEV protected trades.",
-    "url": "https://cowswap.exchange/#/swap",
+    "url": "https://cowswap.exchange",
     "tag": "DeFi",
     "tag_en": "DeFi",
-    "logo": "/images/cowswap.jpeg",
-    "image": ""
+    "logo": "/images/CowSwap.png",
+    "image": "",
+    "tag_es": "DeFi",
+    "des_es": "COWs (Coincidence of Wants) para trades protegidas contra MEV."
   },
   {
     "name": "GUStakes",
