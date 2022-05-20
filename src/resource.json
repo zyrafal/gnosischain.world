@@ -726,7 +726,7 @@
     "logo": "/images/CowSwap.png",
     "image": "",
     "tag_es": "DeFi",
-    "des_es": "COWs (Coincidence of Wants) para ordenes protegidas contra MEV."
+    "des_es": "COWs (Coincidence of Wants) para trades protegidas contra MEV."
   },
   {
     "name": "GUStakes",
