@@ -1291,14 +1291,14 @@
     "image": ""
   },
   {
-    "name": "xDai Tigers",
-    "name_en": "xDai Tigers",
-    "desc": "部署在 xDai 链上的 5555 只 Tigers NFT",
-    "desc_en": "A NFT club of 5555 Tigers on xDai",
-    "url": "https://xdaitigers.com/",
+    "name": "Gnosis Tigers",
+    "name_en": "Gnosis Tigers",
+    "desc": "老虎从二维到三维的转变",
+    "desc_en": "Transformable NFT from 2D to 3D",
+    "url": "https://www.xdaitigers.com/",
     "tag": "NFT",
     "tag_en": "NFT",
-    "logo": "/images/xDaiTigers.jpeg",
+    "logo": "/images/gnosistigers.png",
     "image": ""
   },
   {
@@ -2851,6 +2851,17 @@
     "tag": "UBI",
     "tag_en": "UBI, Payments, Streaming",
     "logo": "/images/DataUnionDAO.png",
-    "image": "/images/DataUnionDAO.png",
+    "image": "/images/DataUnionDAO.png"
+  },
+  {
+    "name": "Gnosis Monkeys",
+    "name_en": "Gnosis Monkeys",
+    "desc": "悟道链上的第一支猴子小队",
+    "desc_en": "The first programmatically generated Monkey squad on Gnosis Chain.",
+    "url": "https://gnosismonkeys.xyz/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/gnosismonkeys.png",
+    "image": ""
   }
 ]
