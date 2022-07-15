@@ -1203,6 +1203,17 @@
     "des_es": "Reality Cards es una mezcla única de mercados predictivos y NFT."
   },
   {
+    "name": "Azuro",
+    "name_en": "Azuro",
+    "desc": "去中心化投注的基础层。 构建您自己的投注应用程序，由 Azuro 的定价、流动市场提供支持",
+    "desc_en": "The base layer for decentralized betting. Build your own betting app powered by Azuro’s feed of priced, liquid markets",
+    "url": "https://azuro.org/",
+    "tag": "预测市场",
+    "tag_en": "Prediction Markets",
+    "logo": "/images/Azuro.jpg",
+    "image": ""
+  },
+  {
     "name": "Crypto Stamp",
     "name_en": "Crypto Stamp",
     "desc": "加密鲸鱼作为收藏邮票",
