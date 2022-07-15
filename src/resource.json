@@ -2863,5 +2863,16 @@
     "tag_en": "NFT",
     "logo": "/images/gnosismonkeys.png",
     "image": ""
+  },
+  {
+    "name": "Flipa",
+    "name_en": "Flipa",
+    "desc": "Gnosis 链上唯一的抛硬币游戏",
+    "desc_en": "The only flip coin game on Gnosis chain",
+    "url": "https://flipa.live",
+    "tag": "游戏",
+    "tag_en": "Games",
+    "logo": "/images/Flipa.png",
+    "image": "/images/Flipa.png"
   }
 ]
