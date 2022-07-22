@@ -1210,7 +1210,7 @@
     "url": "https://azuro.org/",
     "tag": "预测市场",
     "tag_en": "Prediction Markets",
-    "logo": "/images/Azuro.jpg",
+    "logo": "/images/Azuro.jpeg",
     "image": ""
   },
   {
@@ -2023,8 +2023,8 @@
   {
     "name": "GUStakes",
     "name_en": "GUStakes",
-    "desc": "抵押 xDai 挑战诸神对决",
-    "desc_en": "Stake xDai on Gods Unchained matchups.",
+    "desc": "在经典和竞技场的对决中提高赌注，或创建和加入适用于#GodsUnchained的锦标赛",
+    "desc_en": "Raise the stakes in Classic and Arena match duels, or Create & Join Tournaments only for #GodsUnchained",
     "url": "https://gustakes.gg/",
     "tag": "游戏",
     "tag_en": "Games",
