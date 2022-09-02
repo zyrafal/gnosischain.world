@@ -2896,5 +2896,16 @@
     "tag_en": "Tools & Resources",
     "logo": "/images/Gnosis_200x200.png",
     "image": "/images/Gnosis_200x200.png"
+  },
+  {
+    "name": "APY.vision",
+    "name_en": "APY.vision",
+    "desc": "DeFi dashboard for tracking profit and loss of various DeFi activities",
+    "desc_en": "DeFi dashboard for tracking profit and loss of various DeFi activities",
+    "url": "https://apy.vision/",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/UnlockProtocol.png",
+    "image": ""
   }
 ]
