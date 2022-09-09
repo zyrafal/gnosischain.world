@@ -2908,4 +2908,15 @@
     "logo": "/images/UnlockProtocol.png",
     "image": ""
   }
+  {
+    "name": "prode.eth",
+    "name_en": "prode.eth",
+    "desc": "去中心化的投注平台,
+    "desc_en": "Decentralized betting platform",
+    "url": "https://prode.eth.limo/",
+    "tag": "预测市场",
+    "tag_en": "Prediction Markets",
+    "logo": "/images/prode_eth.png",
+    "image": "/images/prode_eth.png"
+  }
 ]
