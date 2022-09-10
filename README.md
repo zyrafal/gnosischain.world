@@ -6,6 +6,12 @@ forks from https://github.com/SparkPoolOfficial/eth123.org
 We are pleased that you are using GnosisChain.world.
 
 
+# Claim A POAP
+
+If you are a contributor to GnosisChain.world then pick up your superb looking POAP at [GitPOAP](https://www.gitpoap.io/gp/448).
+
+<img src="https://assets.poap.xyz/gitpoap-2021-gnosischainworld-contributor-2021-logo-1662669115833.png"  width="300" height="300">
+
 # submitting new projects
 
 Here are the guidelines for submitting new projects.
