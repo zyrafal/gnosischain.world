@@ -5,6 +5,8 @@ forks from https://github.com/SparkPoolOfficial/eth123.org
 
 We are pleased that you are using GnosisChain.world.
 
+[![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/DAOSquare/gnosischain.world/badge)](https://www.gitpoap.io/gh/DAOSquare/gnosischain.world)
+
 
 # Claim A POAP
 
