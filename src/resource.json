@@ -1422,19 +1422,6 @@
     "des_es": "Préstamos de pequeños agricultores"
   },
   {
-    "name": "Coinosis",
-    "name_en": "Coinosis",
-    "desc": "激励性的学习小组",
-    "desc_en": "Incentivized study groups",
-    "url": "https://coinosis.co/",
-    "tag": "社区",
-    "tag_en": "Community Engagement",
-    "logo": "/images/Coinosis.png",
-    "image": "",
-    "tag_es": "Community Engagement",
-    "des_es": "Grupo de aprendizaje de recompensas"
-  },
-  {
     "name": "clr.fund",
     "name_en": "clr.fund",
     "desc": "去中心化的二次方资金",
