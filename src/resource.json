@@ -2907,14 +2907,25 @@
     "image": "/images/prode_eth.png"
   },
   {
-      "name": "DexGuru",
-      "name_en": "DexGuru",
-      "desc": "DexGuru 为您提供无与伦比的链上市场覆盖，集成到一个地方并实时交付。"
-      "desc_en": "DexGuru gives you unparalleled coverage of on-chain markets integrated into one place and delivered in real-time.",
-      "url": "https://dex.guru",
-      "tag": "分析",
-      "tag_en": "Analytics",
-      "logo": "/images/dexguru.png",
-      "image": "/images/dexguru.png"
-  }  
+    "name": "DexGuru",
+    "name_en": "DexGuru",
+    "desc": "DexGuru 为您提供无与伦比的链上市场覆盖，集成到一个地方并实时交付。",
+    "desc_en": "DexGuru gives you unparalleled coverage of on-chain markets integrated into one place and delivered in real-time.",
+    "url": "https://dex.guru",
+    "tag": "分析",
+    "tag_en": "Analytics",
+    "logo": "/images/dexguru.png",
+    "image": "/images/dexguru.png"
+  },
+  {
+    "name": "Obvious",
+    "name_en": "Obvious",
+    "desc": "通过跨链实现的EVM或无EVM的多链钱包",
+    "desc_en": "EVM & non EVM multichain wallet with cross chain transactions",
+    "url": "https://www.obvious.technology/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/obvious.png",
+    "image": ""
+  }
 ]
