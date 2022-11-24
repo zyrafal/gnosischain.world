@@ -2923,8 +2923,8 @@
     "desc": "通过跨链实现的EVM或无EVM的多链钱包",
     "desc_en": "EVM & non EVM multichain wallet with cross chain transactions",
     "url": "https://www.obvious.technology/",
-    "tag": "DeFi",
-    "tag_en": "DeFi",
+    "tag": "钱包",
+    "tag_en": "Wallets",
     "logo": "/images/obvious.png",
     "image": ""
   }
