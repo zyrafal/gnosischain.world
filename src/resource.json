@@ -2905,5 +2905,16 @@
     "tag_en": "Prediction Markets",
     "logo": "/images/prode_eth.png",
     "image": "/images/prode_eth.png"
-  }
+  },
+  {
+      "name": "DexGuru",
+      "name_en": "DexGuru",
+      "desc": "DexGuru 为您提供无与伦比的链上市场覆盖，集成到一个地方并实时交付。"
+      "desc_en": "DexGuru gives you unparalleled coverage of on-chain markets integrated into one place and delivered in real-time.",
+      "url": "https://dex.guru",
+      "tag": "分析",
+      "tag_en": "Analytics",
+      "logo": "/images/dexguru.png",
+      "image": "/images/dexguru.png"
+  }  
 ]
