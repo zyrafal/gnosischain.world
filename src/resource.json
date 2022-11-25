@@ -2935,8 +2935,8 @@
     "desc": "Safe is the most trusted platform to manage digital assets",
     "desc_en": "Safe is the most trusted platform to manage digital assets",
     "url": "https://gnosis-safe.io/",
-    "tag": "Unlock Ownership",
-    "tag_en": "Unlock Ownership",
+    "tag": "钱包",
+    "tag_en": "Wallets",
     "logo": "SAFE_token_logo.png",
     "image": "SAFE_token_logo.png"
   },
