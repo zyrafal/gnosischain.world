@@ -2937,7 +2937,7 @@
     "url": "https://gnosis-safe.io/",
     "tag": "钱包",
     "tag_en": "Wallets",
-    "logo": "SAFE_token_logo.png",
+    "logo": "/images/SAFE_token_logo.png",
     "image": "SAFE_token_logo.png"
   },
 ]
