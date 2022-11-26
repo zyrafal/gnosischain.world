@@ -2871,7 +2871,7 @@
     "tag": "游戏",
     "tag_en": "Games",
     "logo": "/images/Flipa.png",
-    "image": "/images/Flipa.png"
+    "image": ""
   },
   {
     "name": "Gnosis Chain Faucet",
@@ -2882,7 +2882,7 @@
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
     "logo": "/images/Gnosis_200x200.png",
-    "image": "/images/Gnosis_200x200.png"
+    "image": ""
   },
   {
     "name": "APY.vision",
@@ -2904,7 +2904,7 @@
     "tag": "预测市场",
     "tag_en": "Prediction Markets",
     "logo": "/images/prode_eth.png",
-    "image": "/images/prode_eth.png"
+    "image": ""
   },
   {
     "name": "DexGuru",
@@ -2915,7 +2915,7 @@
     "tag": "分析",
     "tag_en": "Analytics",
     "logo": "/images/dexguru.png",
-    "image": "/images/dexguru.png"
+    "image": ""
   },
   {
     "name": "Obvious",
@@ -2927,8 +2927,7 @@
     "tag_en": "Wallets",
     "logo": "/images/obvious.png",
     "image": ""
-  }
-  
+  },
   {
     "name": "Safe",
     "name_en": "Safe",
@@ -2938,6 +2937,6 @@
     "tag": "钱包",
     "tag_en": "Wallets",
     "logo": "/images/SAFE_token_logo.png",
-    "image": "SAFE_token_logo.png"
+    "image": ""
   },
 ]
