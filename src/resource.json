@@ -2938,5 +2938,16 @@
     "tag_en": "Wallets",
     "logo": "/images/SAFE_token_logo.png",
     "image": ""
-  }
+  },
+  {
+    "name": "Gnosis Metrics",
+    "name_en": "Gnosis Metrics",
+    "desc": "Explore all the relevant analytics and metrics across the Gnosis Chain ecosystem",
+    "desc_en": "Explore all the relevant analytics and metrics across the Gnosis Chain ecosystem",
+    "url": "https://www.gnosismetrics.com/",
+    "tag": "Analytics",
+    "tag_en": "Analytics",
+    "logo": "/images/GnosisMetrics-GCWorld.png",
+    "image": ""
+  },
 ]
