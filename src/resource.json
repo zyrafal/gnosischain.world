@@ -2956,8 +2956,8 @@
     "desc": "Explore Gnosis Chain wallets and their unique features and compatibility.",
     "desc_en": "Explore Gnosis Chain wallets and their unique features and compatibility.",
     "url": "https://gnosiswallets.com/",
-    "tag": "Tools and Resources",
-    "tag_en": "Tools and Resources",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources"
     "logo": "/images/GnosisWallets-GcWorld.png",
     "image": ""
   },
@@ -2967,8 +2967,8 @@
     "desc": "Bridge, exchange, or use a fiat on-ramp to acquire xDAI and GNO, all from one place.",
     "desc_en": "Bridge, exchange, or use a fiat on-ramp to acquire xDAI and GNO, all from one place.",
     "url": "https://buyxdai.com/",
-    "tag": "Tools and Resources",
-    "tag_en": "Tools and Resources",
+    "tag": "工具与资源",
+    "tag_en": "Tools & Resources"
     "logo": "/images/BuyxDAI-GCWorld.png",
     "image": ""
   },
