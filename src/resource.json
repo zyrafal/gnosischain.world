@@ -2950,4 +2950,26 @@
     "logo": "/images/GnosisMetrics-GCWorld.png",
     "image": ""
   },
+   {
+    "name": "Gnosis Wallets",
+    "name_en": "Gnosis Wallets",
+    "desc": "Explore Gnosis Chain wallets and their unique features and compatibility.",
+    "desc_en": "Explore Gnosis Chain wallets and their unique features and compatibility.",
+    "url": "https://gnosiswallets.com/",
+    "tag": "Tools and Resources",
+    "tag_en": "Tools and Resources",
+    "logo": "/images/GnosisWallets-GcWorld.png",
+    "image": ""
+  },
+   {
+    "name": "Buy xDAI",
+    "name_en": "Buy xDAI",
+    "desc": "Bridge, exchange, or use a fiat on-ramp to acquire xDAI and GNO, all from one place.",
+    "desc_en": "Bridge, exchange, or use a fiat on-ramp to acquire xDAI and GNO, all from one place.",
+    "url": "https://buyxdai.com/",
+    "tag": "Tools and Resources",
+    "tag_en": "Tools and Resources",
+    "logo": "/images/BuyxDAI-GCWorld.png",
+    "image": ""
+  },
 ]
