@@ -2972,4 +2972,15 @@
     "logo": "/images/BuyxDAI-GCWorld.png",
     "image": ""
   },
+  {
+    "name": "Fileverse",
+    "name_en": "Fileverse",
+    "desc": "文件分享以及协作平台",
+    "desc_en": "File sharing and collaboration platform",
+    "url": "https://fileverse.io/",
+    "tag": "社区",
+    "tag_en": "Community Engagement",
+    "logo": "/images/Fileverse.png",
+    "image": "/images/Fileverse.png",
+  }
 ]
