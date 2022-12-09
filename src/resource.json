@@ -2938,5 +2938,16 @@
     "tag_en": "Wallets",
     "logo": "/images/SAFE_token_logo.png",
     "image": ""
+  },
+  {
+    "name": "Fileverse",
+    "name_en": "Fileverse",
+    "desc": "File sharing and collaboration platform",
+    "desc_en": "File sharing and collaboration platform",
+    "url": "https://fileverse.io/",
+    "tag": "社区",
+    "tag_en": "Community Engagement",
+    "logo": "/images/Fileverse.png",
+    "image": "/images/Fileverse.png",
   }
 ]
