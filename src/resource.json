@@ -2942,7 +2942,7 @@
   {
     "name": "Gnosis Metrics",
     "name_en": "Gnosis Metrics",
-    "desc": "Explore all the relevant analytics and metrics across the Gnosis Chain ecosystem",
+    "desc": "探索整个Gnosis Chain生态系统的所有相关分析和指标",
     "desc_en": "Explore all the relevant analytics and metrics across the Gnosis Chain ecosystem",
     "url": "https://www.gnosismetrics.com/",
     "tag": "分析",
@@ -2953,7 +2953,7 @@
    {
     "name": "Gnosis Wallets",
     "name_en": "Gnosis Wallets",
-    "desc": "Explore Gnosis Chain wallets and their unique features and compatibility.",
+    "desc": "探索支持Gnosis Chain的钱包们及其独特的功能和兼容性。",
     "desc_en": "Explore Gnosis Chain wallets and their unique features and compatibility.",
     "url": "https://gnosiswallets.com/",
     "tag": "工具与资源",
@@ -2964,7 +2964,7 @@
    {
     "name": "Buy xDAI",
     "name_en": "Buy xDAI",
-    "desc": "Bridge, exchange, or use a fiat on-ramp to acquire xDAI and GNO, all from one place.",
+    "desc": "在一个地方进行桥，交换，或使用法币获取xDAI和GNO",
     "desc_en": "Bridge, exchange, or use a fiat on-ramp to acquire xDAI and GNO, all from one place.",
     "url": "https://buyxdai.com/",
     "tag": "工具与资源",
