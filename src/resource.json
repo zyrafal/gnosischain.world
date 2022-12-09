@@ -369,6 +369,17 @@
     "image": ""
   },
   {
+    "name": "Etherspot",
+    "name_en": "Etherspot",
+    "desc": "Etherspot SDK 是一个多链自托管智能合约钱包平台，为 dApp、游戏和钱包开发人员提供解决方案，以提供无摩擦的 Web3 UX",
+    "desc_en": "Etherspot SDK is a multi-chain self-custody Smart Contract Wallet platform that provides solutions for dApps, game and wallet developers to deliver frictionless Web3 UX",
+    "url": "https://etherspot.io/",
+    "tag": "基础设施",
+    "tag_en": "Infrastructure",
+    "logo": "/images/etherspot.png",
+    "image": ""
+  },
+  {
     "name": "HoneySwap",
     "name_en": "HoneySwap",
     "desc": "构建于 xDai上 的去中心化交易所",
