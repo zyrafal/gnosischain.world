@@ -2997,7 +2997,7 @@
   {
     "name": "BitOK",
     "name_en": "BitOK",
-    "desc": "保持加密货币清洁的投资组合跟踪器,
+    "desc": "保持加密货币清洁的投资组合跟踪器",
     "desc_en": "Portfolio tracker that keeps your crypto clean",
     "url": "https://bitok.org/",
     "tag": "工具与资源",
@@ -3005,5 +3005,4 @@
     "logo": "/images/OKman_logo.png",
     "image": "",
 }
-  
 ]
