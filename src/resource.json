@@ -2832,6 +2832,7 @@
   {
     "name": "AirdropMe",
     "name_en": "AirdropMe",
+    "desc_en": "最具成本效益的空投工具，批量分发代币和DAO奖励。不需要花太多的gas即可发送大量代币",
     "desc_en": "The most cost-effective tool for airdrops, token distributions in bulk & DAO rewards. Send plenty of crypto tokens & don't spend much on gas fees",
     "url": "https://airdropme.io/",
     "tag": "Token Distribution",
