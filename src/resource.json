@@ -2830,6 +2830,16 @@
     "image": ""
   },
   {
+    "name": "AirdropMe",
+    "name_en": "AirdropMe",
+    "desc_en": "The most cost-effective tool for airdrops, token distributions in bulk & DAO rewards. Send plenty of crypto tokens & don't spend much on gas fees",
+    "url": "https://airdropme.io/",
+    "tag": "Token Distribution",
+    "tag_en": "Token Distribution",
+    "logo": "/images/airdropme.svg",
+    "image": ""
+  },
+  {
     "name": "RareGems",
     "name_en": "RareGems",
     "desc": "多链式NFT市场",
