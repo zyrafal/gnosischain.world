@@ -3006,6 +3006,17 @@
     "image": "/images/Fileverse.png"
   },
   {
+    "name": "Karpatkey",
+    "name_en": "Karpatkey",
+    "desc": "我们帮助去中心化组织通过最先进的风险管理和信任最小化的 DeFi 资金执行来保护资本。",
+    "desc_en": "We help decentralised organisations to preserve capital through state-of-the-art risk management and trust-minimised DeFi treasury execution.",
+    "url": "https://www.karpatkey.com/",
+    "tag": "社区",
+    "tag_en": "Community Engagement",
+    "logo": "/images/Karpatkey.png",
+    "image": ""
+  },
+  {
     "name": "BitOK",
     "name_en": "BitOK",
     "desc": "保持加密货币清洁的投资组合跟踪器",
