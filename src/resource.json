@@ -85,17 +85,6 @@
     "image": ""
   },
   {
-    "name": "xDAI水龙头",
-    "name_en": "xDAI Faucet",
-    "desc": "获得0.01 xDai(领不到多试几次)",
-    "desc_en": "Get 0.01 xDai(Try a few more times if you can't get it)",
-    "url": "https://xdai-app.herokuapp.com/faucet",
-    "tag": "工具与资源",
-    "tag_en": "Tools & Resources",
-    "logo": "/images/xDai.png",
-    "image": ""
-  },
-  {
     "name": "Hop Protocol",
     "name_en": "Hop Protocol",
     "desc": "bridge",
@@ -126,17 +115,6 @@
     "tag": "工具与资源",
     "tag_en": "Tools & Resources",
     "logo": "/images/xDai.png",
-    "image": ""
-  },
-  {
-    "name": "Staking on Ethereum",
-    "name_en": "Staking on Ethereum",
-    "desc": "在以太坊上质押你的STAKE!",
-    "desc_en": "Stake your STAKE on Ethereum!",
-    "url": "https://easy-staking.xdaichain.com/",
-    "tag": "工具与资源",
-    "tag_en": "Tools & Resources",
-    "logo": "/images/EasyStaking.png",
     "image": ""
   },
   {
@@ -347,17 +325,6 @@
     "image": ""
   },
   {
-    "name": "SmashCash",
-    "name_en": "SmashCash",
-    "desc": "第一个支持wBTC ADA DOT XRP USDC Fantom Harmony  MVR Arbitrum & HECO supports ETH, BNB,AVAX, MATIC, XDAI 的私人匿名交易",
-    "desc_en": "1st in History-Private & Anonymous Transactions On wBTC ADA DOT XRP USDC Fantom Harmony  MVR Arbitrum & HECO supports ETH, BNB,AVAX, MATIC,XDAI",
-    "url": "https://smashcash.io/products/xdai/index.html",
-    "tag": "基础设施",
-    "tag_en": "Infrastructure",
-    "logo": "/images/SmashCash.jpeg",
-    "image": ""
-  },
-  {
     "name": "WPSmartContracts",
     "name_en": "WPSmartContracts",
     "desc": "WordPress 的智能合约插件 - 让区块链变得简单",
@@ -404,19 +371,6 @@
     "image": "",
     "tag_es": "DeFi",
     "des_es": "Agricultura baja en fósforo"
-  },
-  {
-    "name": "Perpetual Protocol",
-    "name_en": "Perpetual Protocol",
-    "desc": "服务于任何资产的去中心化永续合约",
-    "desc_en": "Decentralized Perpetual Contracts for Every Asset.",
-    "url": "https://perp.fi/",
-    "tag": "DeFi",
-    "tag_en": "DeFi",
-    "logo": "/images/PerpetualProtocol.png",
-    "image": "",
-    "tag_es": "DeFi",
-    "des_es": "Contrato permanente descentralizado para cada activo."
   },
   {
     "name": "SushiSwap",
@@ -586,19 +540,6 @@
     "image": "",
     "tag_es": "DeFi",
     "des_es": "Acuerdo de préstamo DeFi"
-  },
-  {
-    "name": "LevinSwap",
-    "name_en": "LevinSwap",
-    "desc": "xDai上的 DEX，包括 RealT 的流动性",
-    "desc_en": "DEX on xDai, includes RealT liquidity",
-    "url": "https://info.levinswap.org/home",
-    "tag": "DeFi",
-    "tag_en": "DeFi",
-    "logo": "/images/LevinSwap.png",
-    "image": "",
-    "tag_es": "DeFi",
-    "des_es": "DEX en xDai, incluida la liquidez inmobiliaria"
   },
   {
     "name": "DeBank",
@@ -827,17 +768,6 @@
     "tag": "DeFi",
     "tag_en": "DeFi",
     "logo": "/images/TornadoCash.jpeg",
-    "image": ""
-  },
-  {
-    "name": "DeferSwap",
-    "name_en": "DeferSwap",
-    "desc": "A decentralized order book trading protocol.",
-    "desc_en": "A decentralized order book trading protocol.",
-    "url": "https://xdai.deferswap.com",
-    "tag": "DeFi",
-    "tag_en": "DeFi",
-    "logo": "/images/deferswap.jpeg",
     "image": ""
   },
   {
@@ -1075,26 +1005,13 @@
     "name_en": "SNAFU",
     "desc": "数字艺术家联盟",
     "desc_en": "Digital Artist Collective",
-    "url": "https://www.nftsnafu.org/",
+    "url": "https://app.nftsnafu.org/#/",
     "tag": "NFT",
     "tag_en": "NFT",
     "logo": "/images/Snafu.png",
     "image": "",
     "tag_es": "NFT",
     "des_es": "Colectivo de artistas digitales"
-  },
-  {
-    "name": "Fraction.art",
-    "name_en": "Fraction.art",
-    "desc": "碎片化艺术的众筹平台，v1 版建立在xDai上",
-    "desc_en": "Crowdsale platform for fractionalized art, v1 built on xDai.",
-    "url": "https://fraction.art/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/FractionArt.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "Plataforma de crowdfunding de arte de subdivisión, v1 construida en XDAI."
   },
   {
     "name": "Foundation",
@@ -1121,19 +1038,6 @@
     "image": "",
     "tag_es": "NFT",
     "des_es": "Crear, enviar y puentear arte NFT"
-  },
-  {
-    "name": "Chievmint",
-    "name_en": "Chievmint",
-    "desc": "为你的成就铸造 NFT",
-    "desc_en": "The Ministry for Minting Achievements",
-    "url": "https://chiev.net/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/Chievmint.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "Departamento de Logros de Moneda"
   },
   {
     "name": "GitCoin Kudos",
@@ -1186,19 +1090,6 @@
     "image": "",
     "tag_es": "NFT",
     "des_es": "NFT limitado, único y personalizado creado y propiedad de la comunidad."
-  },
-  {
-    "name": "HashAvatars",
-    "name_en": "HashAvatars",
-    "desc": "生成在xDai上以 Hash 名称",
-    "desc_en": "generated with a hash name on xDai.",
-    "url": "https://thehashavatars.com/#/created-avatars",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/HashAvatars.png",
-    "image": "",
-    "tag_es": "NFT",
-    "des_es": "Generado usando el nombre hash en xdai."
   },
   {
     "name": "Reality Cards",
@@ -1266,17 +1157,6 @@
     "tag": "NFT",
     "tag_en": "NFT",
     "logo": "/images/ColdTruthCulture.jpeg",
-    "image": ""
-  },
-  {
-    "name": "PolkaDoge",
-    "name_en": "PolkaDoge",
-    "desc": "POLKA+DOGE, 多链NFT市场, Polkadot网络上的第一个 Memecoin",
-    "desc_en": "POLKA+DOGE,Multichain NFT Marketplace,1st Memecoin on Polkadot Network as well",
-    "url": "https://nft.polkadoge.co/",
-    "tag": "NFT",
-    "tag_en": "NFT",
-    "logo": "/images/PolkaDoge.jpeg",
     "image": ""
   },
   {
@@ -1444,19 +1324,6 @@
     "image": "",
     "tag_es": "Community Engagement",
     "des_es": "Dispersión de financiamiento secundario"
-  },
-  {
-    "name": "Chievmint",
-    "name_en": "Chievmint",
-    "desc": "为你的成就铸造 NFT",
-    "desc_en": "The Ministry for Minting Achievements",
-    "url": "https://chiev.net/",
-    "tag": "社区",
-    "tag_en": "Community Engagement",
-    "logo": "/images/Chievmint.png",
-    "image": "",
-    "tag_es": "Community Engagement",
-    "des_es": "Departamento de Logros de Moneda"
   },
   {
     "name": "Giveth",
@@ -1711,19 +1578,6 @@
     "des_es": "Una organización secreta dedicada a crear, enfocándose en NFT, DeFi y DAO"
   },
   {
-    "name": "FacebookFly",
-    "name_en": "FacebookFly",
-    "desc": "将 DAO 带入 Facebook",
-    "desc_en": "Bringing DAOs to Facebook",
-    "url": "https://fbfly.xyz/",
-    "tag": "DAO组织",
-    "tag_en": "DAOs",
-    "logo": "/images/FacebookFly.png",
-    "image": "",
-    "tag_es": "DAOs",
-    "des_es": "Introducir DAO en Facebook"
-  },
-  {
     "name": "PrinterDAO",
     "name_en": "PrinterDAO",
     "desc": "一个致力于大规模的印刷的去中心化的平台",
@@ -1824,19 +1678,6 @@
     "des_es": "Un ingreso básico en la cadena de bloques"
   },
   {
-    "name": "Sablier",
-    "name_en": "Sablier",
-    "desc": "流支付",
-    "desc_en": "Streaming money",
-    "url": "https://sablier-xdai.on.fleek.co/#/",
-    "tag": "UBI",
-    "tag_en": "UBI, Payments, Streaming",
-    "logo": "/images/Sablier.png",
-    "image": "",
-    "tag_es": "UBI, Payments, Streaming",
-    "des_es": "Liquidez"
-  },
-  {
     "name": "Superfluid",
     "name_en": "Superfluid",
     "desc": "可编程的现金流",
@@ -1887,19 +1728,6 @@
     "image": "",
     "tag_es": "Analytics",
     "des_es": "Creador de tablero de cadena cruzada"
-  },
-  {
-    "name": "Dappquery",
-    "name_en": "Dappquery",
-    "desc": "智能合约仪表盘",
-    "desc_en": "Smart Contract dashboards, metrics and visualizations",
-    "url": "https://dappquery.com/",
-    "tag": "分析",
-    "tag_en": "Analytics",
-    "logo": "/images/Dappquery.png",
-    "image": "",
-    "tag_es": "Analytics",
-    "des_es": "Tablero de contratos inteligentes, medición y visualización"
   },
   {
     "name": "Tenderly",
@@ -1980,19 +1808,6 @@
     "des_es": "Juego de guerra espacial zkSNARK"
   },
   {
-    "name": "CoinQuest",
-    "name_en": "CoinQuest",
-    "desc": "免费玩和玩赚取MMORPG",
-    "desc_en": "Free to play & play to earn MMORPG",
-    "url": "https://coinquest.game",
-    "tag": "游戏",
-    "tag_en": "Games",
-    "logo": "/images/CoinQuest.png",
-    "image": "",
-    "tag_es": "Games",
-    "des_es": "Gratis para jugar y jugar para ganar MMORPG"
-  },
-  {
     "name": "Galleass",
     "name_en": "Galleass",
     "desc": "去中心化的资源管理游戏",
@@ -2053,17 +1868,6 @@
     "tag": "游戏",
     "tag_en": "Games",
     "logo": "/images/AngelBattle.png",
-    "image": ""
-  },
-  {
-    "name": "IDLE",
-    "name_en": "IDLE",
-    "desc": "运行在区块链上的去中心化游戏",
-    "desc_en": "decentralized game built on blockchain.",
-    "url": "https://nineliveslabs.com/idle/",
-    "tag": "游戏",
-    "tag_en": "Games",
-    "logo": "",
     "image": ""
   },
   {
@@ -2298,17 +2102,6 @@
     "image": ""
   },
   {
-    "name": "DinoWallet",
-    "name_en": "DinoWallet",
-    "desc": "Dino钱包",
-    "desc_en": "This is Official Dino Wallet App Crypto",
-    "url": "https://dinowallet.org/",
-    "tag": "钱包",
-    "tag_en": "Wallets",
-    "logo": "/images/DinoWallet.jpeg",
-    "image": ""
-  },
-  {
     "name": "okex wallet",
     "name_en": "okex wallet",
     "desc": "okex钱包",
@@ -2471,17 +2264,6 @@
     "tag": "代币分发",
     "tag_en": "Token Distribution",
     "logo": "/images/Disperse.jpeg",
-    "image": ""
-  },
-  {
-    "name": "SuperToken",
-    "name_en": "SuperToken",
-    "desc": "使用SuperToken可以在几秒钟内铸造你自己的代币!",
-    "desc_en": "Use SuperToken to mint your own token in seconds!",
-    "url": "https://rskcoins.xyz/xdai-generator",
-    "tag": "代币分发",
-    "tag_en": "Token Distribution",
-    "logo": "",
     "image": ""
   },
   {
@@ -2676,17 +2458,6 @@
     "image": ""
   },
   {
-    "name": "Permapost",
-    "name_en": "Permapost",
-    "desc": "Permapost 是一个新的写字的手不可审查的内容平台",
-    "desc_en": "Permapost is a new uncensorable content platform",
-    "url": "https://www.permapost.io/",
-    "tag": "更多",
-    "tag_en": "More",
-    "logo": "",
-    "image": ""
-  },
-  {
     "name": "TEC",
     "name_en": "TEC",
     "desc": "👩‍🌾培育TE生态系统🕊️管理公共池",
@@ -2764,17 +2535,6 @@
     "image": ""
   },
   {
-    "name": "DEX Screener",
-    "name_en": "DEX Screener",
-    "desc": "实时跟踪你最喜欢的DEX",
-    "desc_en": "Tracking and charting your favorite DEX in realtime",
-    "url": "https://dexscreener.com/xdai",
-    "tag": "工具与资源",
-    "tag_en": "Tools & Resources",
-    "logo": "/images/dexscreener.jpeg",
-    "image": ""
-  },
-  {
     "name": "AnalytEx",
     "name_en": "AnalytEx",
     "desc": "實時高級 DeFi 分析",
@@ -2832,7 +2592,7 @@
   {
     "name": "AirdropMe",
     "name_en": "AirdropMe",
-    "desc_en": "最具成本效益的空投工具，批量分发代币和DAO奖励。不需要花太多的gas即可发送大量代币",
+    "desc": "最具成本效益的空投工具，批量分发代币和DAO奖励。不需要花太多的gas即可发送大量代币",
     "desc_en": "The most cost-effective tool for airdrops, token distributions in bulk & DAO rewards. Send plenty of crypto tokens & don't spend much on gas fees",
     "url": "https://airdropme.io/",
     "tag": "Token Distribution",
