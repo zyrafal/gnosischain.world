@@ -2786,5 +2786,16 @@
     "tag_en": "Tools & Resources",
     "logo": "/images/Bitok.png",
     "image": ""
+  },
+  {
+    "name": "Token Engineering Commons",
+    "name_en": "Token Engineering Commons",
+    "desc": "促进创建道德、安全、有弹性和多样化的经济体系，造福世界各地的社会",
+    "desc_en": "Enabling the creation of ethical, safe, resilient & diverse economic systems to benefit societies around the world",
+    "url": "https://tecommons.org/",
+    "tag": "DAO组织",
+    "tag_en": "DAOs",
+    "logo": "/images/Token_Engineering_Commons.png",
+    "image": ""
   }
 ]
