@@ -2786,5 +2786,16 @@
     "tag_en": "Tools & Resources",
     "logo": "/images/Bitok.png",
     "image": ""
+  },
+  {
+    "name": "ghostNFT",
+    "name_en": "ghostNFT",
+    "desc": "通过跨链 NFT 抵押为 NFT 收藏创造者和持有者赋能",
+    "desc_en": "Empowering NFT collection creators and holders through cross-chain NFT collateralization",
+    "url": "https://nft.ghostchain.io/",
+    "tag": "NFT",
+    "tag_en": "NFT",
+    "logo": "/images/GHOST_Logo.png",
+    "image": ""
   }
 ]
