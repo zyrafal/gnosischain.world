@@ -2172,6 +2172,17 @@
     "logo": "/images/PocketPortal.png",
     "image": ""
   },
+    {
+    "name": "Blast",
+    "name_en": "Blast",
+    "desc": "一个 API 平台，为 Gnosis Archive Mainnet 和 Testnet 提供 RPC/WSS API",
+    "desc_en": "an API platform that provides RPC/WSS APIs for Gnosis Archive Mainnet and Testnet",
+    "url": "https://blastapi.io/",
+    "tag": "节点提供商",
+    "tag_en": "Node providers",
+    "logo": "/images/Blast.png",
+    "image": ""
+  },
   {
     "name": "Multisender",
     "name_en": "Multisender",
