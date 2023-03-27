@@ -2734,5 +2734,18 @@
     "tag_en": "NFT",
     "logo": "/images/GHOST_Logo.png",
     "image": ""
+  },
+  {
+    "name": "Holyheld",
+    "name_en": "Holyheld",
+    "desc": "用于非托管钱包的 Web3 借记卡",
+    "desc_en": "Web3 debit card for a non-custodial wallet",
+    "url": "https://holyheld.com",
+    "tag": "UBI",
+    "tag_en": "UBI, Payments, Streaming",
+    "logo": "/images/holyheld.png",
+    "image": "",
+    "tag_es": "UBI, Payments, Streaming",
+    "des_es": "Tarjeta de débito Web3 para billeteras sin custodia"
   }
 ]
