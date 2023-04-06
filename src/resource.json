@@ -2747,5 +2747,16 @@
     "image": "",
     "tag_es": "UBI, Payments, Streaming",
     "des_es": "Tarjeta de débito Web3 para billeteras sin custodia"
+  },
+  {
+    "name": "CoinSender",
+    "name_en": "CoinSender",
+    "desc": "Fast and Convenient Multi-Transaction Payouts",
+    "desc_en": "Fast and Convenient Multi-Transaction Payouts",
+    "url": "https://coinsender.io/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/CoinSender.png",
+    "image": ""
   }
 ]
