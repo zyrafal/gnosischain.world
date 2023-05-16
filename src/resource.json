@@ -2758,5 +2758,16 @@
     "tag_en": "DeFi",
     "logo": "/images/CoinSender.png",
     "image": ""
+  },
+  {
+    "name": "Cryptio",
+    "name_en": "Cryptio",
+    "desc": "Cryptio is the leading back-office platform for crypto enterprises, institutions and DAOs. It allows businesses to transform their on-&-off chain activity from wallets, exchanges and custodians into GAAP and IFRS financial statements.",
+    "desc_en": "Cryptio is the leading back-office platform for crypto enterprises, institutions and DAOs. It allows businesses to transform their on-&-off chain activity from wallets, exchanges and custodians into GAAP and IFRS financial statements.",
+    "url": "https://cryptio.co/",
+    "tag": "Accounting",
+    "tag_en": "Accounting",
+    "logo": "/images/cryptio.png",
+    "image": ""
   }
 ]
