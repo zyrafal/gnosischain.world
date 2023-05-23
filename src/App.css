@@ -30,6 +30,15 @@
   -webkit-box-orient: vertical;
 }
 
+.item_three_clamp {
+  word-break: break-world!important;
+  overflow : hidden!important;
+  text-overflow: ellipsis!important;
+  display: -webkit-box!important;
+  -webkit-line-clamp: 3!important;
+  -webkit-box-orient: vertical!important;
+}
+
 .footer {
   background-image: url("./assets/footer_bg.svg");
   background-position: center center;
