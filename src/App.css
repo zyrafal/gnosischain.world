@@ -22,7 +22,12 @@
   font-weight: 400;
   line-height: 20px;
   color: #999;
-  word-break: break-all;
+  word-break: break-world;
+  overflow : hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
 }
 
 .footer {
