@@ -846,17 +846,6 @@
     "image": ""
   },
   {
-    "name": "Defiyield",
-    "name_en": "Defiyield",
-    "desc": "由区块链安全网络保护的资产管理面板。",
-    "desc_en": "Asset Management Dashboard secured by a Blockchain Security Network.",
-    "url": "https://defiyield.app/dashboard/",
-    "tag": "DeFi",
-    "tag_en": "DeFi",
-    "logo": "/images/Defiyield.jpeg",
-    "image": ""
-  },
-  {
     "name": "Carrot",
     "name_en": "Carrot",
     "desc": "Carrot 是一个易于使用的平台，允许项目创建社区驱动的可编程激励。",
