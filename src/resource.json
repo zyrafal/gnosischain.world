@@ -2760,14 +2760,14 @@
     "image": ""
   },
   {
-    "name": "De.Fi",
-    "name_en": "De.Fi",
-    "desc": "De.Fi is the Inventor of Crypto's First Antivirus and the Web3 SuperApp",
-    "desc_en": "De.Fi is the Inventor of Crypto's First Antivirus and the Web3 SuperApp",
-    "url": "https://de.fi/",
-    "tag": "DeFi",
-    "tag_en": "DeFi",
-    "logo": "/images/defi.png",
+    "name": "Ubiquity DevPool",
+    "name_en": "Ubiquity DevPool",
+    "desc": "Solve bounties, find work and blitzscale you project with our solution to efficiently run natively decentralized organizations",
+    "desc_en": "Solve bounties, find work and blitzscale you project with our solution to efficiently run natively decentralized organizations",
+    "url": "https://dao.ubq.fi/devpool",
+    "tag": "Tools & Resources",
+    "tag_en": "Tools & Resources",
+    "logo": "/images/Ubq.png",
     "image": ""
-  }
+  },
 ]
