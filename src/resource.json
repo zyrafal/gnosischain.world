@@ -2773,12 +2773,12 @@
   {
     "name": "Ubiquity DevPool",
     "name_en": "Ubiquity DevPool",
-    "desc": "Solve bounties, find work and blitzscale you project with our solution to efficiently run natively decentralized organizations",
-    "desc_en": "Solve bounties, find work and blitzscale you project with our solution to efficiently run natively decentralized organizations",
+    "desc": "解决悬赏，寻找工作，快速扩张您的项目，有效的运行原生的去中心化组织。",
+    "desc_en": "Solve bounties, find work, and blitzscale your project to efficiently run natively decentralized organizations.",
     "url": "https://dao.ubq.fi/devpool",
     "tag": "Tools & Resources",
     "tag_en": "Tools & Resources",
     "logo": "/images/Ubq.png",
     "image": ""
-  {
+  }
 ]
