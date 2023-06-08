@@ -2758,6 +2758,17 @@
     "tag_en": "Tools & Resources",
     "logo": "/images/cryptio.png",
     "image": ""
+  }, 
+  {
+    "name": "De.Fi",
+    "name_en": "De.Fi",
+    "desc": "De.Fi is the Inventor of Crypto's First Antivirus and the Web3 SuperApp",
+    "desc_en": "De.Fi is the Inventor of Crypto's First Antivirus and the Web3 SuperApp",
+    "url": "https://de.fi/",
+    "tag": "DeFi",
+    "tag_en": "DeFi",
+    "logo": "/images/defi.png",
+    "image": ""
   },
   {
     "name": "Ubiquity DevPool",
@@ -2769,5 +2780,5 @@
     "tag_en": "Tools & Resources",
     "logo": "/images/Ubq.png",
     "image": ""
-  },
+  {
 ]
